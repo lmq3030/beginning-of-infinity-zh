@@ -6,9 +6,9 @@
 
 这让预防原则变成了一种偏向现状的偏见。它伪装成谨慎，实际上是[[Blind Pessimism|盲目悲观（Blind Pessimism）]]的变体：预设未知的改变比已知的恶更危险。
 
-Deutsch 的替代方案是：所有决策都应该基于对问题的[[Good Explanation|好解释（Good Explanation）]]，而不是基于对未知的恐惧。出了问题怎么办？靠[[Error Correction|纠错（Error Correction）]]。保证我们不犯错的方法不存在，但保证我们能发现并修正错误的制度是可以建设的。
+Deutsch 的替代方案是：所有决策都应该基于对问题的[[Good Explanation|好解释（Good Explanation）]]，而不是基于对未知的恐惧。出了问题怎么办？靠[[Error Correction|错误校正（Error Correction）]]。保证我们不犯错的方法不存在，但保证我们能发现并修正错误的制度是可以建设的。
 
 另见：
 - [[Blind Pessimism|盲目悲观（Blind Pessimism）]]
 - [[Optimism|乐观主义（Optimism）]]
-- [[Error Correction|纠错（Error Correction）]]
+- [[Error Correction|错误校正（Error Correction）]]

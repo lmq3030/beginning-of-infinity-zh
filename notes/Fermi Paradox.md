@@ -2,7 +2,7 @@
 
 如果宇宙如此之大，文明应该到处都是——那么，它们在哪里？
 
-Naval 在讨论 Deutsch 的思想时给出了一个认识论层面的回答：大多数文明可能卡在了[[Static Societies|静态社会（Static Societies）]]里，永远没走出去。费米悖论的大过滤器不在物理上——恒星际旅行对掌握了原子嬗变的文明来说并不难——而在认识论上：一个文明必须先成为[[Dynamic Societies|动态社会（Dynamic Societies）]]，拥抱[[Criticism|批判（Criticism）]]和[[Error Correction|纠错（Error Correction）]]，才有可能持续产生新知识并解决星际旅行的技术问题。
+Naval 在讨论 Deutsch 的思想时给出了一个认识论层面的回答：大多数文明可能卡在了[[Static Societies|静态社会（Static Societies）]]里，永远没走出去。费米悖论的大过滤器不在物理上——恒星际旅行对掌握了原子嬗变的文明来说并不难——而在认识论上：一个文明必须先成为[[Dynamic Societies|动态社会（Dynamic Societies）]]，拥抱[[Criticism|批判（Criticism）]]和[[Error Correction|错误校正（Error Correction）]]，才有可能持续产生新知识并解决星际旅行的技术问题。
 
 而成为动态社会极其困难。人类历史上，绝大多数文明都是静态的。[[Memes|反理性模因（Anti-rational Memes）]]会主动压制创造力。启蒙运动这种事可能在宇宙中极其罕见——不是因为智能稀有，而是因为把智能转化为持续知识增长的制度安排太容易被扼杀。
 

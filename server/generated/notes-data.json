@@ -109,7 +109,7 @@
   },
   {
     "path": "Fallibilism",
-    "markdown": "# 可错论（Fallibilism）\n\n承认不存在权威的知识来源，也不存在任何可靠方法，可以把知识证明为真实或可能真实。\n\n这不是一种怀疑论。可错论并不说\"我们什么都不知道\"，而是说\"我们知道的一切都可能是错的，但有些猜测比另一些好得多\"。正因为知识天生可错，我们才需要[[Criticism|批判（Criticism）]]和[[Error Correction|纠错（Error Correction）]]的制度——科学、民主、开放社会，都是可错论的制度化。\n\n另见：\n- [[Criticism|批判（Criticism）]]\n- [[Popper|波普尔（Popper）]]\n- [[Error Correction|纠错（Error Correction）]]\n"
+    "markdown": "# 可错论（Fallibilism）\n\n承认不存在权威的知识来源，也不存在任何可靠方法，可以把知识证明为真实或可能真实。\n\n这不是一种怀疑论。可错论并不说\"我们什么都不知道\"，而是说\"我们知道的一切都可能是错的，但有些猜测比另一些好得多\"。正因为知识天生可错，我们才需要[[Criticism|批判（Criticism）]]和[[Error Correction|错误校正（Error Correction）]]的制度——科学、民主、开放社会，都是可错论的制度化。\n\n另见：\n- [[Criticism|批判（Criticism）]]\n- [[Popper|波普尔（Popper）]]\n- [[Error Correction|错误校正（Error Correction）]]\n"
   },
   {
     "path": "Fallible",
@@ -117,7 +117,7 @@
   },
   {
     "path": "Fermi Paradox",
-    "markdown": "# 费米悖论（Fermi Paradox）\n\n如果宇宙如此之大，文明应该到处都是——那么，它们在哪里？\n\nNaval 在讨论 Deutsch 的思想时给出了一个认识论层面的回答：大多数文明可能卡在了[[Static Societies|静态社会（Static Societies）]]里，永远没走出去。费米悖论的大过滤器不在物理上——恒星际旅行对掌握了原子嬗变的文明来说并不难——而在认识论上：一个文明必须先成为[[Dynamic Societies|动态社会（Dynamic Societies）]]，拥抱[[Criticism|批判（Criticism）]]和[[Error Correction|纠错（Error Correction）]]，才有可能持续产生新知识并解决星际旅行的技术问题。\n\n而成为动态社会极其困难。人类历史上，绝大多数文明都是静态的。[[Memes|反理性模因（Anti-rational Memes）]]会主动压制创造力。启蒙运动这种事可能在宇宙中极其罕见——不是因为智能稀有，而是因为把智能转化为持续知识增长的制度安排太容易被扼杀。\n\n这个视角把费米悖论从天体物理问题变成了政治哲学问题。问题不是\"宇宙中有没有生命\"，而是\"有多少文明的制度结构允许无限的知识增长\"。\n\n另见：\n- [[Static Societies|静态社会（Static Societies）]]\n- [[Dynamic Societies|动态社会（Dynamic Societies）]]\n- [[Optimism|乐观主义（Optimism）]]\n"
+    "markdown": "# 费米悖论（Fermi Paradox）\n\n如果宇宙如此之大，文明应该到处都是——那么，它们在哪里？\n\nNaval 在讨论 Deutsch 的思想时给出了一个认识论层面的回答：大多数文明可能卡在了[[Static Societies|静态社会（Static Societies）]]里，永远没走出去。费米悖论的大过滤器不在物理上——恒星际旅行对掌握了原子嬗变的文明来说并不难——而在认识论上：一个文明必须先成为[[Dynamic Societies|动态社会（Dynamic Societies）]]，拥抱[[Criticism|批判（Criticism）]]和[[Error Correction|错误校正（Error Correction）]]，才有可能持续产生新知识并解决星际旅行的技术问题。\n\n而成为动态社会极其困难。人类历史上，绝大多数文明都是静态的。[[Memes|反理性模因（Anti-rational Memes）]]会主动压制创造力。启蒙运动这种事可能在宇宙中极其罕见——不是因为智能稀有，而是因为把智能转化为持续知识增长的制度安排太容易被扼杀。\n\n这个视角把费米悖论从天体物理问题变成了政治哲学问题。问题不是\"宇宙中有没有生命\"，而是\"有多少文明的制度结构允许无限的知识增长\"。\n\n另见：\n- [[Static Societies|静态社会（Static Societies）]]\n- [[Dynamic Societies|动态社会（Dynamic Societies）]]\n- [[Optimism|乐观主义（Optimism）]]\n"
   },
   {
     "path": "Four Strands",
@@ -129,11 +129,11 @@
   },
   {
     "path": "Good Explanation",
-    "markdown": "# 好解释（Good Explanation）\n\n一个好解释在解释它声称要解释的东西时，仍然[[Hard to vary|难以改变（Hard to vary）]]。\n\n这是 Deutsch 整本书最核心的概念。\"难以改变\"的意思是：解释中的每一个细节都在做功——如果你改动其中任何一部分，整个解释就不再成立。牛顿的万有引力定律就是这样：你不能把平方反比改成立方反比，否则行星轨道全部算错。相比之下，\"众神操纵季节\"这种解释可以随意修改——众神的数量、动机、手段都能换，而\"解释\"照样成立。\n\nNaval 提出过一个实用的检验标准：如果你不能把一个解释编程实现，你就还没有真正理解它。这不是说所有知识都必须是计算机程序，而是说一个好解释应该精确到足以指导具体操作。模糊的、可以任意解读的叙述不算解释。\n\n好解释还有一个特征是[[Reach|延伸（Reach）]]——真正好的解释往往能解释远超最初目的的现象。比如爱因斯坦的广义相对论最初解释水星近日点的进动，但它同时解释了引力透镜、时间膨胀、黑洞等一系列当时根本没想到的事情。延伸是好解释的副产品，不是目标。\n\n另见：\n- [[Hard to vary|难以改变（Hard to vary）]]\n- [[Bad Explanation|坏解释（Bad Explanation）]]\n- [[Reach|延伸（Reach）]]\n"
+    "markdown": "# 好解释（Good Explanation）\n\n一个好解释在解释它声称要解释的东西时，仍然[[Hard to vary|难以改变（Hard to vary）]]。\n\n这是 Deutsch 整本书最核心的概念。\"难以改变\"的意思是：解释中的每一个细节都在做功——如果你改动其中任何一部分，整个解释就不再成立。牛顿的万有引力定律就是这样：你不能把平方反比改成立方反比，否则行星轨道全部算错。相比之下，\"众神操纵季节\"这种解释可以随意修改——众神的数量、动机、手段都能换，而\"解释\"照样成立。\n\nNaval 提出过一个实用的检验标准：如果你不能把一个解释编程实现，你就还没有真正理解它。这不是说所有知识都必须是计算机程序，而是说一个好解释应该精确到足以指导具体操作。模糊的、可以任意解读的叙述不算解释。\n\n好解释还有一个特征是[[Reach|触达范围（Reach）]]——真正好的解释往往能解释远超最初目的的现象。比如爱因斯坦的广义相对论最初解释水星近日点的进动，但它同时解释了引力透镜、时间膨胀、黑洞等一系列当时根本没想到的事情。延伸是好解释的副产品，不是目标。\n\n另见：\n- [[Hard to vary|难以改变（Hard to vary）]]\n- [[Bad Explanation|坏解释（Bad Explanation）]]\n- [[Reach|触达范围（Reach）]]\n"
   },
   {
     "path": "Governing",
-    "markdown": "# 治理（Governing）\n\n有一类问题，[[Popper|波普尔（Popper）]]称之为“谁应该统治？”例如，“谁应该掌权？”以及许多派生问题，比如“他们应该如何受教育？”这类问题自历史开始以来就一直被提出，也是一切治理争论的根源。\n\n波普尔指出，这类问题和“科学理论如何从感觉数据中推导出来？”这个问题一样，植根于同一个误解；后一个问题定义了[[Empiricism|经验主义（Empiricism）]]。它在寻找一个系统，试图从既有数据中推导或证明某个领导者或政府选择是正确的，比如继承权、多数人的意见、某人受教育的方式，等等。\n\n同样的误解也支撑着[[Blind Optimism|盲目乐观（Blind Optimism）]]和[[Blind Pessimism|盲目悲观（Blind Pessimism）]]：二者都期待通过把一条简单规则应用到既有知识上来取得进步，以决定哪些未来可能性应被忽略，哪些应被依赖。换句话说，就是*没有解释的进步*。\n\n如果政治过程被看作一台把正确统治者送上台的机器，那么它就会为暴力辩护：在那个正确系统建立之前，没有统治者是合法的；而一旦系统建立，其指定统治者开始统治，反对他们就是反对正确性。问题于是变成：如何挫败任何反对统治者或其政策的人。\n\n因此，波普尔把自己那个基本问题“我们如何发现并消除错误？”应用到政治哲学中，形式变为：我们如何不用暴力摆脱坏政府？\n\n没有完美的领导者，而[[Arrow's theorem|阿罗定理（Arrow's theorem）]]证明，没有任何治理系统是完全公平的。\n\n因此，评价政府制度，不应看它的领导者或政策质量如何，而应看它移除坏领导者或坏政策有多容易。\n\n不使用暴力而移除坏领导者或坏政策的唯一方式，是培养言论自由与[[Criticism|批判（Criticism）]]的文化。\n\nNaval 把这个思路扩展到了经济领域：自由市场之所以有效，原因和民主之所以优于独裁一样——它们都是[[Error Correction|纠错（Error Correction）]]系统。在市场中，坏产品会被消费者抛弃，坏公司会倒闭。这个过程不需要谁来\"规划正确答案\"，正如科学的进步不需要某个权威来指定正确理论。垄断之所以危险，跟独裁之所以危险，逻辑结构相同：它关闭了纠错机制。\n\n还有一个相关的观察：一旦某件事变成社会性的，真理追求就被压制了。科学进步靠的是猜想加批判，不是共识。当探究变成社会活动（同行压力、团队忠诚、面子），批判就被压制——知识创造的机制就坏了。Naval 说，\"团体永远不会承认失败\"。这对治理的启示是：好的制度设计应该让反对意见尽可能安全地表达出来，而不是追求\"团结\"。\n\n另见：\n- [[Arrow's theorem|阿罗定理（Arrow's theorem）]]\n- [[Error Correction|纠错（Error Correction）]]\n- [[Dynamic Societies|动态社会（Dynamic Societies）]]\n"
+    "markdown": "# 治理（Governing）\n\n有一类问题，[[Popper|波普尔（Popper）]]称之为“谁应该统治？”例如，“谁应该掌权？”以及许多派生问题，比如“他们应该如何受教育？”这类问题自历史开始以来就一直被提出，也是一切治理争论的根源。\n\n波普尔指出，这类问题和“科学理论如何从感觉数据中推导出来？”这个问题一样，植根于同一个误解；后一个问题定义了[[Empiricism|经验主义（Empiricism）]]。它在寻找一个系统，试图从既有数据中推导或证明某个领导者或政府选择是正确的，比如继承权、多数人的意见、某人受教育的方式，等等。\n\n同样的误解也支撑着[[Blind Optimism|盲目乐观（Blind Optimism）]]和[[Blind Pessimism|盲目悲观（Blind Pessimism）]]：二者都期待通过把一条简单规则应用到既有知识上来取得进步，以决定哪些未来可能性应被忽略，哪些应被依赖。换句话说，就是*没有解释的进步*。\n\n如果政治过程被看作一台把正确统治者送上台的机器，那么它就会为暴力辩护：在那个正确系统建立之前，没有统治者是合法的；而一旦系统建立，其指定统治者开始统治，反对他们就是反对正确性。问题于是变成：如何挫败任何反对统治者或其政策的人。\n\n因此，波普尔把自己那个基本问题“我们如何发现并消除错误？”应用到政治哲学中，形式变为：我们如何不用暴力摆脱坏政府？\n\n没有完美的领导者，而[[Arrow's theorem|阿罗定理（Arrow's theorem）]]证明，没有任何治理系统是完全公平的。\n\n因此，评价政府制度，不应看它的领导者或政策质量如何，而应看它移除坏领导者或坏政策有多容易。\n\n不使用暴力而移除坏领导者或坏政策的唯一方式，是培养言论自由与[[Criticism|批判（Criticism）]]的文化。\n\nNaval 把这个思路扩展到了经济领域：自由市场之所以有效，原因和民主之所以优于独裁一样——它们都是[[Error Correction|错误校正（Error Correction）]]系统。在市场中，坏产品会被消费者抛弃，坏公司会倒闭。这个过程不需要谁来\"规划正确答案\"，正如科学的进步不需要某个权威来指定正确理论。垄断之所以危险，跟独裁之所以危险，逻辑结构相同：它关闭了纠错机制。\n\n还有一个相关的观察：一旦某件事变成社会性的，真理追求就被压制了。科学进步靠的是猜想加批判，不是共识。当探究变成社会活动（同行压力、团队忠诚、面子），批判就被压制——知识创造的机制就坏了。Naval 说，\"团体永远不会承认失败\"。这对治理的启示是：好的制度设计应该让反对意见尽可能安全地表达出来，而不是追求\"团结\"。\n\n另见：\n- [[Arrow's theorem|阿罗定理（Arrow's theorem）]]\n- [[Error Correction|错误校正（Error Correction）]]\n- [[Dynamic Societies|动态社会（Dynamic Societies）]]\n"
   },
   {
     "path": "Hard to vary",
@@ -177,7 +177,7 @@
   },
   {
     "path": "Multiverse",
-    "markdown": "# 多重宇宙（Multiverse）\n\n物理世界是一个多重宇宙（multiverse），它的结构由信息在其中如何流动决定。在多重宇宙的许多区域，信息会沿着近乎自主的流动路径前进，这些路径被称为历史（histories）；其中一条历史就是我们所谓的”宇宙”。宇宙近似服从经典物理，也就是量子之前的物理规律。但我们之所以知道多重宇宙的其余部分，并且能够检验量子物理规律，是因为量子干涉（quantum interference）现象。因此，宇宙并不是多重宇宙中的一个精确特征，而是一个[[Emergent phenomena|涌现（Emergent phenomena）]]特征。\n\n多重宇宙最陌生、也最反直觉的性质之一，是[[Fungibility|可替换性（Fungibility）]]。多重宇宙的运动规律是决定论的；表面上的随机性，来自对象那些最初可替换的实例变得彼此不同。在量子物理中，变量通常是离散的；它们如何从一个值变成另一个值，是一个涉及干涉和可替换性的多重宇宙过程。\n\n另见：\n- [[Fungibility|可替换性（Fungibility）]]\n- [[Four Strands|四条线索（Four Strands）]]\n"
+    "markdown": "# 多重宇宙（Multiverse）\n\n物理世界是一个多重宇宙（multiverse），它的结构由信息在其中如何流动决定。在多重宇宙的许多区域，信息会沿着近乎自主的流动路径前进，这些路径被称为历史（histories）；其中一条历史就是我们所谓的”宇宙”。宇宙近似服从经典物理，也就是量子之前的物理规律。但我们之所以知道多重宇宙的其余部分，并且能够检验量子物理规律，是因为量子干涉（quantum interference）现象。因此，宇宙并不是多重宇宙中的一个精确特征，而是一个[[Emergent phenomena|涌现现象（Emergent phenomena）]]特征。\n\n多重宇宙最陌生、也最反直觉的性质之一，是[[Fungibility|可替换性（Fungibility）]]。多重宇宙的运动规律是决定论的；表面上的随机性，来自对象那些最初可替换的实例变得彼此不同。在量子物理中，变量通常是离散的；它们如何从一个值变成另一个值，是一个涉及干涉和可替换性的多重宇宙过程。\n\n另见：\n- [[Fungibility|可替换性（Fungibility）]]\n- [[Four Strands|四条线索（Four Strands）]]\n"
   },
   {
     "path": "Neo-Darwinism",
@@ -209,7 +209,7 @@
   },
   {
     "path": "Precautionary Principle",
-    "markdown": "# 预防原则（Precautionary Principle）\n\n预防原则说：如果不确定某个行动是否有害，就不要做。听起来很合理，但 Deutsch 指出它在逻辑上自相矛盾——因为\"不做\"本身也是一个行动，也有后果，也有风险。不采取行动的后果同样不确定。\n\n比如，如果禁止一种新技术因为它\"可能有害\"，你同时也在承担\"没有这种技术\"的所有风险——疾病继续蔓延、贫困持续存在、某种灾难因为缺少应对工具而无法避免。预防原则没有办法衡量这些\"不行动\"的风险，因为它只审视行动，不审视不行动。\n\n这让预防原则变成了一种偏向现状的偏见。它伪装成谨慎，实际上是[[Blind Pessimism|盲目悲观（Blind Pessimism）]]的变体：预设未知的改变比已知的恶更危险。\n\nDeutsch 的替代方案是：所有决策都应该基于对问题的[[Good Explanation|好解释（Good Explanation）]]，而不是基于对未知的恐惧。出了问题怎么办？靠[[Error Correction|纠错（Error Correction）]]。保证我们不犯错的方法不存在，但保证我们能发现并修正错误的制度是可以建设的。\n\n另见：\n- [[Blind Pessimism|盲目悲观（Blind Pessimism）]]\n- [[Optimism|乐观主义（Optimism）]]\n- [[Error Correction|纠错（Error Correction）]]\n"
+    "markdown": "# 预防原则（Precautionary Principle）\n\n预防原则说：如果不确定某个行动是否有害，就不要做。听起来很合理，但 Deutsch 指出它在逻辑上自相矛盾——因为\"不做\"本身也是一个行动，也有后果，也有风险。不采取行动的后果同样不确定。\n\n比如，如果禁止一种新技术因为它\"可能有害\"，你同时也在承担\"没有这种技术\"的所有风险——疾病继续蔓延、贫困持续存在、某种灾难因为缺少应对工具而无法避免。预防原则没有办法衡量这些\"不行动\"的风险，因为它只审视行动，不审视不行动。\n\n这让预防原则变成了一种偏向现状的偏见。它伪装成谨慎，实际上是[[Blind Pessimism|盲目悲观（Blind Pessimism）]]的变体：预设未知的改变比已知的恶更危险。\n\nDeutsch 的替代方案是：所有决策都应该基于对问题的[[Good Explanation|好解释（Good Explanation）]]，而不是基于对未知的恐惧。出了问题怎么办？靠[[Error Correction|错误校正（Error Correction）]]。保证我们不犯错的方法不存在，但保证我们能发现并修正错误的制度是可以建设的。\n\n另见：\n- [[Blind Pessimism|盲目悲观（Blind Pessimism）]]\n- [[Optimism|乐观主义（Optimism）]]\n- [[Error Correction|错误校正（Error Correction）]]\n"
   },
   {
     "path": "Preface",
