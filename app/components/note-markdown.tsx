@@ -8,12 +8,18 @@ interface Props {
   markdown: string
   style?: React.CSSProperties
   size?: 'sm' | 'md'
-  onClickBacklink?: (event: MouseEvent, path: string) => void
+  onClickBacklink?: (event: MouseEvent, path: string, backlinkKey?: string) => void
+  activeBacklinkPath?: string
+  activeBacklinkKey?: string
+  linkKeyPrefix?: string
 }
 
 export const NoteMarkdown: React.FC<Props> = ({
   markdown,
   onClickBacklink,
+  activeBacklinkPath,
+  activeBacklinkKey,
+  linkKeyPrefix = 'markdown',
   style,
   size = 'md',
 }) => {
@@ -22,13 +28,23 @@ export const NoteMarkdown: React.FC<Props> = ({
       className={clsx('prose w-auto', size === 'sm' ? 'prose-sm' : 'prose-md')}
       style={style}
     >
-      {markdownToElements(markdown, {onClickBacklink})}
+      {markdownToElements(markdown, {
+        onClickBacklink,
+        activeBacklinkPath,
+        activeBacklinkKey,
+        linkKeyPrefix,
+        backlinkCounts: new Map(),
+      })}
     </div>
   )
 }
 
 interface MarkdownOptions {
-  onClickBacklink?: (event: MouseEvent, path: string) => void
+  onClickBacklink?: (event: MouseEvent, path: string, backlinkKey?: string) => void
+  activeBacklinkPath?: string
+  activeBacklinkKey?: string
+  linkKeyPrefix: string
+  backlinkCounts: Map<string, number>
 }
 
 const elementWithKey = (element: React.ReactElement, key: string | number) => (
@@ -49,6 +65,13 @@ const textTokenToElement = (token: marked.Tokens.Text, options: MarkdownOptions)
   }
 }
 
+const getBacklinkKey = (path: string, options: MarkdownOptions) => {
+  const nextCount = (options.backlinkCounts.get(path) || 0) + 1
+  options.backlinkCounts.set(path, nextCount)
+
+  return `${options.linkKeyPrefix}:backlink:${path}:${nextCount}`
+}
+
 const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) => {
   switch (token.type) {
     case 'heading':
@@ -63,14 +86,24 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
           {tokensToElements(token.tokens || [], options)}
         </a>
       )
-    case 'backlink':
+    case 'backlink': {
+      const backlinkKey = getBacklinkKey(token.path, options)
+
       return (
         <NoteBacklink
           path={token.path}
           label={token.label}
-          onClick={(event) => options.onClickBacklink?.(event, token.path)}
+          active={
+            options.activeBacklinkKey
+              ? backlinkKey === options.activeBacklinkKey
+              : token.path === options.activeBacklinkPath
+          }
+          onClick={(event) =>
+            options.onClickBacklink?.(event, token.path, backlinkKey)
+          }
         />
       )
+    }
     case 'em':
       return <em>{tokensToElements(token.tokens || [], options)}</em>
     case 'blockquote':
@@ -103,7 +136,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
   }
 }
 
-const markdownToElements = (markdown: string, options: MarkdownOptions = {}) => {
+const markdownToElements = (markdown: string, options: MarkdownOptions) => {
   const tokens = markdownToTokens(markdown)
   const elements = tokens.map((token) => tokenToElement(token, options))
 

@@ -8,8 +8,14 @@ import {NoteLinks} from './note-links'
 interface Props {
   note: Note
   index: number
-  onClickBacklink?: (event: React.MouseEvent, path: string) => void
+  onClickBacklink?: (
+    event: React.MouseEvent,
+    path: string,
+    backlinkKey?: string,
+  ) => void
   onClickNote?: () => void
+  activeBacklinkPath?: string
+  activeBacklinkKey?: string
   collapsed?: boolean
   overlay?: boolean
 }
@@ -23,6 +29,8 @@ export const NotesBrowserItem: React.FC<Props> = ({
   note,
   onClickBacklink,
   onClickNote,
+  activeBacklinkPath,
+  activeBacklinkKey,
   index,
   collapsed = false,
   overlay = false,
@@ -74,8 +82,19 @@ export const NotesBrowserItem: React.FC<Props> = ({
         leaveTo="opacity-0"
       >
         <div className="flex-1 flex-col px-8 py-8 space-y-8">
-          <NoteMarkdown markdown={note.markdown} onClickBacklink={onClickBacklink} />
-          <NoteLinks note={note} onClickBacklink={onClickBacklink} />
+          <NoteMarkdown
+            markdown={note.markdown}
+            onClickBacklink={onClickBacklink}
+            activeBacklinkPath={activeBacklinkPath}
+            activeBacklinkKey={activeBacklinkKey}
+            linkKeyPrefix="body"
+          />
+          <NoteLinks
+            note={note}
+            onClickBacklink={onClickBacklink}
+            activeBacklinkPath={activeBacklinkPath}
+            activeBacklinkKey={activeBacklinkKey}
+          />
         </div>
       </Transition>
     </div>

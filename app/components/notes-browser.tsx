@@ -9,11 +9,19 @@ interface Props {
   initialNotes?: Note[]
 }
 
+interface ActiveBacklink {
+  path: string
+  key?: string
+}
+
 export const NotesBrowser: React.FC<Props> = ({initialNotes = []}) => {
   const ref = useRef<HTMLDivElement | null>(null)
   const [scrollLeft, setScrollLeft] = useState(0)
 
   const [viewNotes, setViewNotes] = useState<Note[]>(initialNotes)
+  const [activeBacklinks, setActiveBacklinks] = useState<Array<ActiveBacklink | undefined>>(
+    initialNotes.slice(1).map((note) => ({path: note.path})),
+  )
   const canGoBack = viewNotes.length > 1
 
   const setStackedQuery = useCallback((notePaths: string[]) => {
@@ -33,6 +41,9 @@ export const NotesBrowser: React.FC<Props> = ({initialNotes = []}) => {
       if (notes.length <= 1) return notes
 
       const previousNotes = notes.slice(0, -1)
+      setActiveBacklinks((links) =>
+        links.slice(0, Math.max(previousNotes.length - 1, 0)),
+      )
       setStackedQuery(previousNotes.map((note) => note.path))
 
       return previousNotes
@@ -43,19 +54,32 @@ export const NotesBrowser: React.FC<Props> = ({initialNotes = []}) => {
     event: React.MouseEvent,
     path: string,
     index: number,
+    backlinkKey?: string,
   ) => {
     event.preventDefault()
+    event.stopPropagation()
 
     const appendNote = await getNote(path)
 
     // Note doesn't exist
     if (!appendNote) return
 
-    // We're already displaying this note
-    if (viewNotes.map((n) => n.path).includes(appendNote.path)) return
+    const existingIndex = viewNotes.findIndex((note) => note.path === appendNote.path)
+
+    // Avoid cyclic stacks; focus the existing ancestor instead.
+    if (existingIndex !== -1 && existingIndex <= index) {
+      scrollToIndex(existingIndex)
+      return
+    }
 
     // Find all notes that are stacked on top of this new index
     const newNotes = [...viewNotes.slice(0, index + 1), appendNote]
+    setActiveBacklinks((links) => {
+      const nextLinks = links.slice(0, index + 1)
+      nextLinks[index] = {path: appendNote.path, key: backlinkKey}
+
+      return nextLinks
+    })
     setViewNotes(newNotes)
 
     // Set the stacked query (excluding the initial note - usually index)
@@ -119,8 +143,12 @@ export const NotesBrowser: React.FC<Props> = ({initialNotes = []}) => {
               scrollLeft > (index + 1) * NoteBrowserItemWidthWithoutCollapsed - 60
             }
             overlay={scrollLeft > (index - 1) * NoteBrowserItemWidthWithoutCollapsed}
-            onClickBacklink={(event, path) => onClickBacklink(event, path, index)}
+            onClickBacklink={(event, path, backlinkKey) =>
+              onClickBacklink(event, path, index, backlinkKey)
+            }
             onClickNote={() => focusNoteAtIndex(index)}
+            activeBacklinkPath={activeBacklinks[index]?.path}
+            activeBacklinkKey={activeBacklinks[index]?.key}
           />
         ))}
       </div>
