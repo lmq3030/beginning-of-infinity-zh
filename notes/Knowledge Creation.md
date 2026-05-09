@@ -1,4 +1,4 @@
-## 知识创造（Knowledge Creation）
+# 知识创造（Knowledge Creation）
 
 已知的知识创造来源只有两个：生物[[Evolution|进化（Evolution）]]，以及[[People|人（People）]]的思想。二者有一些关键差异。
 

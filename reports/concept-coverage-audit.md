@@ -8,7 +8,7 @@
 
 主要 recall 缺口在五个章节级主题：第 2 章的现实/实在论与工具主义，第 5 章的抽象现实与还原论，第 10 章的苏格拉底之梦与客观知识，第 12 章的坏哲学，第 13 章的选择/社会选择。已新增对应节点：`Reality`、`Instrumentalism`、`Abstraction`、`Reductionism`、`Socratic Dream`、`Objective Knowledge`、`Bad Philosophy`、`Choice`。
 
-主要 precision 风险是：当前若干笔记中混入了 Naval 等二级解释材料。它们通常有启发性，但不应和原书核心主张处在同一来源层级。建议后续给节点增加 `source: book | extension` 或在文中统一标注“延伸理解”。
+Naval 相关内容是有意加入的外部延伸来源，不再作为 precision 阻塞项处理。为了让读者理解来源层级，后续可以给节点增加 `source: book | extension`，或在文中统一标注“延伸理解”。本轮对照的 Naval 来源是 [Part 1](https://nav.al/infinity) 和 [Part 2](https://nav.al/infinity-2)。
 
 ## 章节覆盖
 
@@ -36,6 +36,6 @@
 ## 建议的下一轮整理
 
 1. 给笔记增加来源层级：原书核心、原书支撑、外部延伸。这样 knowledge graph 可以过滤，precision 会更清楚。
-2. 把 Naval 相关段落统一标注为“延伸理解”，或移动到单独的 `Naval on Deutsch` 节点。
+2. Naval 相关段落保留为外部延伸；后续只需要统一标注来源层级，不需要移除。
 3. 继续加强三个薄节点：`Infinity`、`Qualia`、`Wealth`。它们目前定义太短，在图中有节点但解释力不足。
 4. 如果想让 recall 更接近全书细节，可以再补 `Probability`, `Decision Theory`, `Tradition`, `Justificationism` 这类二级节点，但它们不如本轮新增节点优先。

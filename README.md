@@ -6,6 +6,18 @@
 
 本项目基于 [team-reflect/beginning-of-infinity](https://github.com/team-reflect/beginning-of-infinity) 制作；原站点由 [Reflect](https://reflect.app) 团队创建，并运行在 [thebeginningofinfinity.xyz](https://thebeginningofinfinity.xyz)。原始代码、笔记结构和交互体验的 credit 归原仓库与原作者所有。
 
+## 本版本新增内容
+
+这个仓库已经不只是原始 reading companion 的中文翻译。当前版本在原仓库基础上做了这些扩展：
+
+- 将原有笔记本地化为中文，并在关键英文术语旁保留英文标注，方便对照原书概念。
+- 基于原书 EPUB 重新做了一轮概念覆盖检查，补充了 `Reality`、`Instrumentalism`、`Abstraction`、`Reductionism`、`Socratic Dream`、`Objective Knowledge`、`Bad Philosophy`、`Choice` 等章节级核心节点。
+- 增加了来自 Naval Ravikant 对《The Beginning of Infinity》的两篇解读的外部延伸内容：[Part 1](https://nav.al/infinity) 和 [Part 2](https://nav.al/infinity-2)。
+- 增强了多层级阅读体验：点击内部链接会打开下一级笔记，并高亮当前层级被选中的链接，方便回看阅读 trace。
+- 增加了可视化知识网络：右下角按钮可打开全局 knowledge graph，支持力导向布局、节点拖拽、重置布局、点击节点查看摘要和跳转原笔记。
+- 补充了发布前的概念覆盖报告：[reports/concept-coverage-audit.md](reports/concept-coverage-audit.md)。
+- 已适配 Vercel 部署，构建时会把 `notes/` 生成到 `server/generated/notes-data.json`，避免部署环境依赖运行时文件扫描。
+
 # 这本书
 
 我们认为《[无穷的开始（The Beginning of Infinity）](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359)》是有史以来最重要的书之一。不过它内容密度很高，对普通读者来说并不容易读。我们做这个网站，是为了分享自己的高层次笔记，传播戴维·多伊奇（David Deutsch）的思想，也鼓励更多人去读原书。
