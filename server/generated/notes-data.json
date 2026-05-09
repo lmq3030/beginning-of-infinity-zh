@@ -1,0 +1,254 @@
+[
+  {
+    "path": "About",
+    "markdown": "# 关于这些笔记\n\n我们认为《[无穷的开始（The Beginning of Infinity）](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359)》是有史以来最重要的书之一。不过它内容密度很高，对普通读者来说并不容易读。我们做这个网站，是为了分享自己的高层次笔记，传播戴维·多伊奇（David Deutsch）的思想，也鼓励更多人去读原书。\n\n这里的思想当然不属于我们：它们直接来自多伊奇的书，或来自对他的访谈。事实上，连这个网站的交互体验也不是我们原创，它受到了 [Andy Matuschak 的笔记](https://notes.andymatuschak.org/About_these_notes)启发。谢谢 David，也谢谢 Andy！\n\n我们已经开源了[这个网站的代码](https://github.com/team-reflect/beginning-of-infinity)，你也可以用它来整理自己的笔记。\n\n本网站由 [Reflect](https://reflect.app) 背后的团队创建。Reflect 是一款网络化笔记应用。\n"
+  },
+  {
+    "path": "AI",
+    "markdown": "# 人工智能（AI）\n\n一种具有创造力的计算机程序，是一种[[Person|人（Person）]]。\n\n人工（通用）智能（artificial general intelligence）这个领域之所以还没有取得真正进展，是因为它的核心有一个尚未解决的哲学问题：我们还不理解创造力是如何运作的。一旦这个问题得到解决，把它编写成程序并不会困难。甚至所谓的人工进化（artificial evolution），尽管表面上看似已经实现，也可能尚未真正实现。那里的问题在于：我们还不理解 DNA 复制系统的普遍性（universality）本质。\n"
+  },
+  {
+    "path": "Anthropocentric",
+    "markdown": "# 人类中心主义（Anthropocentric）\n\n以人类，或更广义地说，以人（persons）为中心。\n"
+  },
+  {
+    "path": "Anti-rational Meme",
+    "markdown": "# 反理性模因（Anti-rational Meme）\n\n一种思想：它依靠关闭接受者的批判能力，来促使自己被复制。\n\n这类思想常常利用人类的基本情绪，尤其是恐惧和愤怒，诱使人们相信它、传播它。\n\n例如，借恐怖主义威胁之名，通过审查言论自由的法律。\n"
+  },
+  {
+    "path": "Arrow's theorem",
+    "markdown": "# 阿罗定理（Arrow's theorem）\n\n这是一个不可能性定理（impossibility theorem）。它证明：不存在一种排序投票制度，能够在所有情况下同时满足以下三个“公平”标准：\n\n- 如果每个选民都偏好选项 X 胜过选项 Y，那么群体也应偏好 X 胜过 Y。\n- 如果每个选民在 X 与 Y 之间的偏好没有变化，那么群体在 X 与 Y 之间的偏好也不应变化，即使选民对其他选项对，比如 X 与 Z、Y 与 Z、Z 与 W 的偏好发生了变化。\n- 不存在“独裁者”：没有任何单个选民能总是决定群体的偏好。\n\n它本质上证明了：不存在数学上完全公平的政府制度。\n\n另见：\n- [Wikipedia](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)\n"
+  },
+  {
+    "path": "Bad Explanation",
+    "markdown": "# 坏解释（Bad Explanation）\n\n坏解释（bad explanation）是不具体的。你可以改变其中任意细节，甚至改变全部细节，却仍然不破坏它。\n\n坏解释的例子：\n\n- 雷声由索尔（Thor）的愤怒造成。\n- 白天和黑夜来自上帝在创世第一天把光分开。\n- 夏天来自[珀耳塞福涅（Persephone）](https://en.wikipedia.org/wiki/Persephone)每年与母亲德墨忒耳（Demeter）团聚。\n\n在这些例子里，你可以替换任意变量，解释看起来仍然“说得通”。\n\n- 雷声由宙斯（Zeus）的愤怒造成。\n- 白天和黑夜来自上帝在创世最后一天把光分开。\n- 珀耳塞福涅离开时，哈得斯（Hades）分心了，忘了给地球降温。\n\n另见：\n- [[Hard to vary|难以改变（Hard to vary）]]\n- [[Good Explanation|好解释（Good Explanation）]]\n"
+  },
+  {
+    "path": "Beginning of Infinity",
+    "markdown": "# 《无穷的开始》（The Beginning of Infinity）\n\n一本由[[David Deutsch|戴维·多伊奇（David Deutsch）]]写的书。\n\n> 在这本开创性的著作中，获奖物理学家戴维·多伊奇主张，解释（explanations）在宇宙中具有根本地位；改进解释，是一切成功的人类事业背后的基本调节原则。他带领我们穿越科学的各个基础领域，也穿越文明史、艺术、道德价值和政治制度理论，追踪我们如何形成新的解释、抛弃糟糕的解释，并说明进步在什么条件下可能发生，在什么条件下不可能发生。他认为进步有可能是无边界的。《无穷的开始》野心极大，也高度原创，揭示并建立了自然法则、人类处境、知识以及进步可能性之间的深层联系。\n\n可在 [Amazon](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359) 购买。\n"
+  },
+  {
+    "path": "Blind Optimism",
+    "markdown": "# 盲目乐观（Blind Optimism）\n\n仿佛自己已经知道坏结果不会发生那样行事。\n"
+  },
+  {
+    "path": "Blind Pessimism",
+    "markdown": "# 盲目悲观（Blind Pessimism）\n\n避开一切尚未被证明安全的东西。这常见于[[Static Societies|静态社会（Static Societies）]]。\n"
+  },
+  {
+    "path": "Conjecture",
+    "markdown": "# 猜想（Conjecture）\n\n运用[[Creativity|创造力（Creativity）]]提出新的[[Explanation|解释（Explanation）]]。\n\n另见：\n\n- [[Criticism|批判（Criticism）]]\n- [[Enlightenment|启蒙运动（Enlightenment）]]\n"
+  },
+  {
+    "path": "Constructor",
+    "markdown": "# 构造器（Constructor）\n\n一种装置：它能够使其他对象发生转化，而自身不发生净变化。\n\nDeutsch, David. The Beginning of Infinity (p. 76). Penguin Publishing Group. Kindle Edition.\n"
+  },
+  {
+    "path": "Creativity",
+    "markdown": "# 创造力（Creativity）\n\n创造新解释（explanations）的能力。\n"
+  },
+  {
+    "path": "Criticism",
+    "markdown": "# 批判（Criticism）\n\n[[Knowledge|知识（Knowledge）]]的增长，来自纠正我们理论中的误解。自[[Enlightenment|启蒙运动（Enlightenment）]]以来，这一直通过一种批判传统发生：新的解释被提出、被批判，然后被改进。\n\n既然[[Conjecture|猜想（Conjecture）]]与批判的传统创造了全部[[Knowledge|知识（Knowledge）]]和[[Progress|进步（Progress）]]，保住这一传统就极其重要。言论自由至关重要。任何思想都不应被置于批判之外。\n\n另见：\n\n- [[Error Correction|错误校正（Error Correction）]]\n- [[Enlightenment|启蒙运动（Enlightenment）]]\n"
+  },
+  {
+    "path": "Culture",
+    "markdown": "# 文化（Culture）\n\n一组[[Memes|模因（Memes）]]。\n"
+  },
+  {
+    "path": "David Deutsch",
+    "markdown": "# 戴维·多伊奇（David Deutsch）\n\n[[Beginning of Infinity|《无穷的开始》（The Beginning of Infinity）]]的作者。\n\nDavid 是英国物理学家，任职于牛津大学。他是牛津大学克拉伦登实验室（Clarendon Laboratory）量子计算中心（Centre for Quantum Computation, CQC）原子与激光物理系的访问教授。他通过提出量子图灵机（quantum Turing machine）的描述，并给出可在量子计算机上运行的算法，开创了量子计算领域。他还提出过利用纠缠态和贝尔定理（Bell's theorem）进行量子密钥分发的方案，并且是量子力学多世界诠释（many-worlds interpretation）的支持者。\n\n更多：\n\n- [Wikipedia profile](https://en.wikipedia.org/wiki/David_Deutsch)\n"
+  },
+  {
+    "path": "Dynamic Societies",
+    "markdown": "# 动态社会（Dynamic Societies）\n\n由理性模因（rational memes）占主导的社会。\n\n动态社会珍视[[Enlightenment|启蒙运动（Enlightenment）]]的理想，比如宽容、言论自由，以及愿意改变。\n\n动态社会往往能迅速改变并改善自身。\n\n另见：\n- [[Static Societies|静态社会（Static Societies）]]\n- [[Anti-rational Meme|反理性模因（Anti-rational Meme）]]\n- [[Rational Meme|理性模因（Rational Meme）]]\n"
+  },
+  {
+    "path": "Emergent phenomena",
+    "markdown": "# 涌现现象（Emergent phenomena）\n\n涌现现象（emergent phenomena）的存在，以及它们能够编码关于其他涌现现象的知识。\n"
+  },
+  {
+    "path": "Empiricism",
+    "markdown": "# 经验主义（Empiricism）\n\n一种理论：所有知识都来自感觉经验，也就是来自实验。\n\n经验主义刚出现时，对[[Progress|进步（Progress）]]起过积极作用，因为它提供了一种抵抗传统权威和教条的武器。所有超自然主张从此都必须有硬证据支持，这意味着“可证明的”科学取代了宗教神秘主义和迷信。\n\n这在一段时间里有效，因为科学家没有人真的按字面意思接受它。如果他们那样做，就不会取得多少进展。\n\n可检验性之所以不够，是因为预测不是，也不可能是科学的目的。你可以检验魔术师在变戏法时会从帽子里拿出兔子，也可以预测每次表演都会发生这件事，但这并不会让你更接近理解这个戏法究竟如何运作。\n\n换句话说，严格执行的经验主义会威胁[[Progress|进步（Progress）]]，事实上也拖累了许多领域，比如量子物理。\n\n我们理论的真正来源是[[Conjecture|猜想（Conjecture）]]；我们[[Knowledge|知识（Knowledge）]]的真正来源，是猜想与[[Criticism|批判（Criticism）]]交替进行。我们通过重新排列、组合、改变和添加既有思想来创造理论，目的在于改进它们。实验和观察的作用，是在既有理论之间作出选择，而不是成为新理论的来源。\n\n另见：\n\n- [[Inductivism|归纳主义（Inductivism）]]\n"
+  },
+  {
+    "path": "Enlightenment",
+    "markdown": "# 启蒙运动（Enlightenment）\n\n围绕追求好解释（good explanations）所蕴含的价值，形成了一整套政治、道德、经济和思想文化，大致就是今天所谓的“西方”。这些价值包括：容忍异见、对变化保持开放、不信任教条和权威，以及个人和整个文化都追求进步的愿望。\n\n在启蒙运动中，所有这些情形里，人们都在有意追求[[Universality|普遍性（Universality）]]，把它看作一种本身就值得追求的特征，甚至是一种思想为真所必需的特征，而不仅仅是解决某个[[Parochial|狭隘（Parochial）]]问题的手段。\n"
+  },
+  {
+    "path": "Error Correction",
+    "markdown": "# 错误校正（Error Correction）\n\n在[[Knowledge|知识（Knowledge）]]的创造或复制中发现错误。\n"
+  },
+  {
+    "path": "Evolution",
+    "markdown": "# 进化（Evolution）\n\n一个物种的特征在几代之间通过自然选择过程发生变化。\n\n另见：\n\n- [[Neo-Darwinism|新达尔文主义（Neo-Darwinism）]]\n- [Wikipedia](https://en.wikipedia.org/wiki/Evolution)\n"
+  },
+  {
+    "path": "Explanation",
+    "markdown": "# 解释（Explanation）\n\n一种陈述：说明那里有什么、它做什么，以及它如何、为何如此。\n\n关于接下来会发生什么的预测，并不足以构成解释。\n\n追求好解释（good explanations）不仅是科学的基本调节原则，也是一般意义上[[Enlightenment|启蒙运动（Enlightenment）]]的基本调节原则。\n\n另见：\n\n- [[Good Explanation|好解释（Good Explanation）]]\n- [[Bad Explanation|坏解释（Bad Explanation）]]\n"
+  },
+  {
+    "path": "Fallibilism",
+    "markdown": "# 可错论（Fallibilism）\n\n承认不存在权威的知识来源，也不存在任何可靠方法，可以把知识证明为真实或可能真实。\n"
+  },
+  {
+    "path": "Fallible",
+    "markdown": "# 可错的（Fallible）\n\n容易出错。\n\n另见：\n- [[Fallibilism|可错论（Fallibilism）]]\n"
+  },
+  {
+    "path": "Good Explanation",
+    "markdown": "# 好解释（Good Explanation）\n\n一个好解释（good explanation）在解释它声称要解释的东西时，仍然[[Hard to vary|难以改变（Hard to vary）]]。\n\n另见：\n\n- [[Hard to vary|难以改变（Hard to vary）]]\n- [[Bad Explanation|坏解释（Bad Explanation）]]\n"
+  },
+  {
+    "path": "Governing",
+    "markdown": "# 治理（Governing）\n\n有一类问题，[[Popper|波普尔（Popper）]]称之为“谁应该统治？”例如，“谁应该掌权？”以及许多派生问题，比如“他们应该如何受教育？”这类问题自历史开始以来就一直被提出，也是一切治理争论的根源。\n\n波普尔指出，这类问题和“科学理论如何从感觉数据中推导出来？”这个问题一样，植根于同一个误解；后一个问题定义了[[Empiricism|经验主义（Empiricism）]]。它在寻找一个系统，试图从既有数据中推导或证明某个领导者或政府选择是正确的，比如继承权、多数人的意见、某人受教育的方式，等等。\n\n同样的误解也支撑着[[Blind Optimism|盲目乐观（Blind Optimism）]]和[[Blind Pessimism|盲目悲观（Blind Pessimism）]]：二者都期待通过把一条简单规则应用到既有知识上来取得进步，以决定哪些未来可能性应被忽略，哪些应被依赖。换句话说，就是*没有解释的进步*。\n\n如果政治过程被看作一台把正确统治者送上台的机器，那么它就会为暴力辩护：在那个正确系统建立之前，没有统治者是合法的；而一旦系统建立，其指定统治者开始统治，反对他们就是反对正确性。问题于是变成：如何挫败任何反对统治者或其政策的人。\n\n因此，波普尔把自己那个基本问题“我们如何发现并消除错误？”应用到政治哲学中，形式变为：我们如何不用暴力摆脱坏政府？\n\n没有完美的领导者，而[[Arrow's theorem|阿罗定理（Arrow's theorem）]]证明，没有任何治理系统是完全公平的。\n\n因此，评价政府制度，不应看它的领导者或政策质量如何，而应看它移除坏领导者或坏政策有多容易。\n\n不使用暴力而移除坏领导者或坏政策的唯一方式，是培养言论自由与[[Criticism|批判（Criticism）]]的文化。\n\n另见：\n- [[Arrow's theorem|阿罗定理（Arrow's theorem）]]\n"
+  },
+  {
+    "path": "Hard to vary",
+    "markdown": "# 难以改变（Hard to vary）\n\n一个难以改变的解释（hard-to-vary explanation）会给出彼此紧密咬合的具体细节，以至于改变任何一个细节都会影响整个理论。\n\n[[Good Explanation|好解释（Good Explanation）]]是难以改变的；而[[Bad Explanation|坏解释（Bad Explanation）]]则可以改变细节而不影响解释本身。\n"
+  },
+  {
+    "path": "Inductivism",
+    "markdown": "# 归纳主义（Inductivism）\n\n一种误解：科学理论来自对重复经验的概括或外推，而且一个理论被观察确认的次数越多，它就越可能为真。\n\n换一种说法就是：“未来会类似过去。”\n"
+  },
+  {
+    "path": "Infinity",
+    "markdown": "# 无穷（Infinity）\n\n我们可以通过某些解释的无限触达范围（reach）来理解无穷。无论在数学中还是在物理学中，这都有意义。但无穷也有反直觉的性质。其中之一是：如果无限进步真的会发生，那么我们不仅现在几乎位于它的开端，而且我们永远都会如此。\n"
+  },
+  {
+    "path": "Jump to Universality",
+    "markdown": "# 向普遍性的跃迁（Jump to Universality）\n\n逐步改进的系统，往往会突然获得功能上的巨大增长，在某个领域变成通用系统（universal system）。\n\n我们知道的第一个[[Universal System|通用系统（Universal System）]]是 DNA。地球上的所有生物都用同一套 DNA 碱基字母表编码，只是组合不同。\n\n通用系统在历史上被发明过几次，但几乎总是偶然发生。没有人立刻意识到它们的重要性；这种认识往往要等几十年，甚至几个世纪。只有自[[Enlightenment|启蒙运动（Enlightenment）]]以来，通用系统的重要性才被理解，并被有意识地追求。\n\n以埃及象形文字为例。每个词都由自己的象形符号表示。要发明新词，就必须发明新的象形符号，并教会所有人它的意思。这是一个非通用系统。\n\n随着书写系统规则的改进，我们从具体的词级抽象，转向字母级抽象。基于拉丁字母的字母表能够表示语言中的每个词。于是，发生了向普遍性的跃迁。\n\n罗马数字相对于刻痕计数系统来说，是执行基本算术的一种改进，但它并不是通用的。一千这个数由符号 ↀ 表示，而那就是它们最高的数。要计算比这更高的数，就意味着把多个 ↀ 接在一起，于是你又回到了刻痕计数。要让算术超越刻痕，唯一方式是采用具有普遍触达范围的规则。\n\n和字母表一样，一小组规则就足够了。\n\n我们今天使用的数字系统有十个符号，也就是 0 到 9。它的普遍性来自一条规则：一个数字的值取决于它在数中的位置。例如，数字 2 单独写时表示二，但在 204 中表示二百。这类“位置制”（positional）系统需要“占位符”，比如 204 中的数字 0；它唯一的功能，就是把 2 放在表示二百的位置上。\n\n通用系统的力量来自它们的[[Reach|触达范围（Reach）]]。它们能做的事远多于最初设计它们时的目标。一个清楚的例子是洗衣机里的计算机。只要有足够内存和时间，就没有什么能阻止它做天体物理计算。\n\n我们的大脑也是通用系统。我们有能力解释任何东西。\n\n另见：\n- [[Universal System|通用系统（Universal System）]]\n- [[Universal Explainers|通用解释者（Universal Explainers）]]\n- [[Universal Computation|通用计算（Universal Computation）]]\n"
+  },
+  {
+    "path": "Knowledge Creation",
+    "markdown": "## 知识创造（Knowledge Creation）\n\n已知的知识创造来源只有两个：生物[[Evolution|进化（Evolution）]]，以及[[People|人（People）]]的思想。二者有一些关键差异。\n\n在人类知识中，变异来自[[Conjecture|猜想（Conjecture）]]，选择来自[[Criticism|批判（Criticism）]]和实验。在生物圈中，变异由基因突变，也就是随机变化构成；自然选择偏爱那些最能提高其有机体繁殖能力的变体，从而使携带这些变体的基因在种群中扩散。\n\n这两个来源都是抽象复制子（abstract replicators），也就是说，它们是体现于物理系统之中，并倾向于继续保持这种体现的信息形式，比如 DNA 链、书籍、硬盘等。\n\n但这两个来源有关键区别。进化是有边界的，也是狭隘的。它倾向于缓慢的迭代变化。人的创造力则没有边界，并且具有[[Reach|触达范围（Reach）]]。\n"
+  },
+  {
+    "path": "Knowledge Streams",
+    "markdown": "# 知识流（Knowledge Streams）\n\n几乎任何经过适当准备的环境，都可以承载知识创造。即使在太空真空中，你也可以设想收集氢原子，并把它们嬗变成一座空间站。随后，这座空间站可以通过周围星光接收关于宇宙的证据，同时进行物理实验，生成新的知识流。\n\n我们通常会认为，一座月球殖民地即使已经自给自足，也仍然起源于地球。但究竟什么东西起源于地球？从长远看，它的所有原子都来自月球，或小行星。它使用的全部能量都来自太阳。只有一部分知识来自地球；而在一个完全隔离的假想殖民地中，这个比例会迅速下降。\n"
+  },
+  {
+    "path": "Knowledge",
+    "markdown": "# 知识（Knowledge）\n\n知识（knowledge）是一种信息：当它被物理地体现于某个环境中时，往往会促使自身继续保持这种体现。\n\n知识的例子：\n- DNA 链\n- 纸草卷轴\n- 存储在硬盘上的 Wikipedia\n\n另见：\n- [[Knowledge Creation|知识创造（Knowledge Creation）]]\n- [[Knowledge Streams|知识流（Knowledge Streams）]]\n"
+  },
+  {
+    "path": "Memes",
+    "markdown": "# 模因（Memes）\n\n生物进化只是进化主线故事之前一段有限的序言；主线故事是模因（memes）的无边界进化。\n\n文化由模因构成，而且文化会进化。在许多方面，模因类似基因，但它们的进化方式也有深刻差异。最重要的差异是：每个模因都必须包含自己的复制机制，而且一个模因会在两种不同的物理形式之间交替存在：一种是心理表征，另一种是行为。因此，与基因不同，模因在每一次复制时都会分别因为两种能力而被选择：它引发行为的能力，以及这种行为促使新的接受者采纳该模因的能力。持有模因的人通常并不知道自己为什么在执行它们：比如我们遵守语法规则，往往比我们能清楚表述这些规则时要准确得多。模因复制只有两种基本策略：帮助潜在持有者，或者关闭持有者的批判能力。两类模因，也就是理性模因（rational memes）和反理性模因（anti-rational memes），会相互抑制对方的复制，也会影响整个文化传播自身的能力。西方文明正处在一个不稳定的过渡期：它介于由反理性模因构成的稳定静态社会，以及由理性模因构成的稳定动态社会之间。与常识相反，原始社会中的生活令人难以想象地痛苦。它们要么是静态的，只能通过熄灭成员的创造力、摧毁他们的精神来生存；要么迅速失去知识并瓦解，随后暴力接管一切。现有的模因理论没有认识到理性/反理性区分的重要性，因此往往隐含地反对模因理论本身。这等于把西方文明误认为一个静态社会，把它的公民误认为静态社会中那些被模因压垮、悲观的受害者。\n"
+  },
+  {
+    "path": "Morality",
+    "markdown": "# 道德（Morality）\n\n道德哲学基本上关心的是“接下来该做什么”的问题；更一般地说，它关心该过怎样的生活，以及该想要一个怎样的世界。\n\n道德是一种[[Knowledge|知识（Knowledge）]]。这意味着，道德“真理”可以通过通常的理性方法被发现，而这些方法本质上与科学方法相同，尽管二者之间有重要差异。\n\n因为道德是一种[[Knowledge|知识（Knowledge）]]，所以它也是[[Fallible|可错的（Fallible）]]，只能通过[[Conjecture|猜想（Conjecture）]]和[[Criticism|批判（Criticism）]]随着时间改进。作为知识，道德不能来自权威来源，比如政府、社会运动或宗教。\n\n道德会随着时间迭代并改善。因此，在这一点上，只有一种超越性的道德：保护改进知识的手段。换句话说，维持一种让人们能够自由猜想、自由批判彼此思想的文化，是最重要的道德命令。\n\n另见：\n- [[Static Societies|静态社会（Static Societies）]]\n- [[Dynamic Societies|动态社会（Dynamic Societies）]]\n"
+  },
+  {
+    "path": "Multiverse",
+    "markdown": "# 多重宇宙（Multiverse）\n\n物理世界是一个多重宇宙（multiverse），它的结构由信息在其中如何流动决定。在多重宇宙的许多区域，信息会沿着近乎自主的流动路径前进，这些路径被称为历史（histories）；其中一条历史就是我们所谓的“宇宙”。宇宙近似服从经典物理，也就是量子之前的物理规律。但我们之所以知道多重宇宙的其余部分，并且能够检验量子物理规律，是因为量子干涉（quantum interference）现象。因此，宇宙并不是多重宇宙中的一个精确特征，而是一个涌现特征。多重宇宙最陌生、也最反直觉的性质之一，是可替换性（fungibility）。多重宇宙的运动规律是决定论的；表面上的随机性，来自对象那些最初可替换的实例变得彼此不同。在量子物理中，变量通常是离散的；它们如何从一个值变成另一个值，是一个涉及干涉和可替换性的多重宇宙过程。\n"
+  },
+  {
+    "path": "Neo-Darwinism",
+    "markdown": "# 新达尔文主义（Neo-Darwinism）\n\n新达尔文主义的核心思想是：进化偏爱那些最善于在种群中扩散的基因。\n\n关于达尔文式[[Evolution|进化（Evolution）]]，一个常见误解是它会最大化“物种的利益”。实际上，进化促进的是单个基因的传播，有时甚至会损害物种。\n\n进化并不特别促进物种或单个有机体的“福祉”。它也不促进基因自身的“福祉”：它适应基因，并不是为了让基因以更大数量存活，甚至也不是为了存活本身，而只是为了让它们相对于竞争基因，尤其是自身的微小变体，在种群中更好地扩散。\n\n有机体是基因的奴隶，或者工具；基因借助它们实现自己在种群中扩散的“目的”。\n\n所以，尽管进化解释了生物学上的进步，并不是所有进化都构成进步，也没有任何（遗传）进化会优化进步。\n\n更多：\n\n- [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene)\n"
+  },
+  {
+    "path": "Optimism",
+    "markdown": "# 乐观主义（Optimism）\n\n一种理论：所有失败，也就是所有恶，都源于知识不足。\n这是关于不可知之物的理性哲学的关键。\n\n如果知识创造存在根本限制，乐观主义就会是徒劳的；但这种限制并不存在。如果在某些领域，尤其是道德这样的哲学领域，不存在客观进步，乐观主义也会是徒劳的。但真理确实存在于所有这些领域，而通往真理的进步，是通过寻求好解释实现的。\n\n[[Problems|问题（Problems）]]是不可避免的，因为我们的知识永远离完备无限遥远。有些问题很难，但把难题和不太可能被解决的问题混为一谈，是一个错误。问题是可解的，每一种具体的恶，都是一个可以被解决的问题。\n\n一个乐观的文明是开放的，不害怕创新，并建立在[[Criticism|批判（Criticism）]]传统之上。它的制度会持续改进，而这些制度所承载的最重要知识，就是如何发现并消除错误。\n\n乐观主义也意味着，我们不应害怕外星文明。它们如果要穿越广袤太空来到我们这里，就必须已经达到某种程度的进步。比如，它们很可能已经解决了原子嬗变（atomic transmutation）之类的问题，因此并不需要我们的资源。\n\n另见：\n- [[Dynamic Societies|动态社会（Dynamic Societies）]]\n- [[Static Societies|静态社会（Static Societies）]]\n"
+  },
+  {
+    "path": "Parochial",
+    "markdown": "# 狭隘性（Parochial）\n\n把表象误认为现实，或者把局部规律误认为普遍法则。\n\n人类中心主义错误是狭隘主义（parochialism）的例子，但并非所有狭隘主义都是人类中心主义。\n"
+  },
+  {
+    "path": "People",
+    "markdown": "# 人（People）\n\n能够创造解释性知识（explanatory knowledge）的实体。\n\n人并不一定必须是人类。这个词也包括有创造力的外星人，以及未来的人工通用智能（artificial general intelligence）。\n\n人是[[Universal Explainers|通用解释者（Universal Explainers）]]和[[Universal Constructor|通用构造器（Universal Constructor）]]的一种形式。\n"
+  },
+  {
+    "path": "Person",
+    "markdown": "# 人（Person）\n\n一个能够创造解释性知识（explanatory knowledge）的实体。\n\n人（person）是[[Universal Explainers|通用解释者（Universal Explainers）]]的一种形式。\n\n见[[People|人（People）]]。\n"
+  },
+  {
+    "path": "Popper",
+    "markdown": "# 波普尔（Popper）\n\n卡尔·波普尔（Karl Popper）通常被认为是二十世纪最伟大的科学哲学家之一。\n\n另见：\n\n- https://plato.stanford.edu/entries/popper/\n"
+  },
+  {
+    "path": "Preface",
+    "markdown": "---\ntitle: 无穷的开始（The Beginning of Infinity）\n---\n\n[[Beginning of Infinity|《无穷的开始》（The Beginning of Infinity）]]为人类传达了一个鼓舞人心的信息。作者[[David Deutsch|戴维·多伊奇（David Deutsch）]]描述了这样一组过程：正是通过这些过程，我们这个物种从在泥土中刨食的炼狱，走到今天巍然耸立的技术高度；而在未来，我们有潜力实现最狂野的梦想。\n\n多伊奇表明，只要我们愿意选择，没有任何问题超出我们的能力之外。只要拥有正确的[[Knowledge|知识（Knowledge）]]，人类就能对宇宙产生宇宙尺度的影响。我们可以解决从饥饿、全球变暖、疾病到星际旅行的一切问题。限制我们的，只有自然法则。我们的进步，只是刚刚站在通向无穷之路的起点。\n\n这里是一些关于这本书的笔记，但我们仍鼓励你[阅读原书](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359)。\n\n---\n\n在人类历史的绝大部分时间里，我们几乎没有取得任何[[Progress|进步（Progress）]]。只有很晚近的时候，主要是欧洲[[Enlightenment|启蒙运动（Enlightenment）]]以来，进步才开始能在一个人的一生中被察觉。\n\n[[Enlightenment|启蒙运动（Enlightenment）]]向我们表明，进步既可能实现，也值得追求。它建立了一种[[Conjecture|猜想（Conjecture）]]与[[Criticism|批判（Criticism）]]的文化，而这两者是任何学科中实现快速进步的关键组成部分，从[[Science|科学（Science）]]到[[Morality|道德（Morality）]]皆是如此。\n\n[[Science|科学（Science）]]是寻找[[Good Explanation|好解释（Good Explanation）]]的实践：说明那里有什么、它做什么，以及它如何、为何如此。[[Morality|道德（Morality）]]关心的是接下来该做什么；更一般地说，它关心该过怎样的生活，以及该想要一个怎样的世界。两个学科都是解释性的、理性的、客观的。\n\n关于科学理论从何而来，有许多误解。一个流行误解是[[Empiricism|经验主义（Empiricism）]]，即我们从感官中推导理论。另一个是[[Inductivism|归纳主义（Inductivism）]]，即未来会类似过去。[[Testability|可检验性（Testability）]]也常被视为科学方法的定义特征。所有这些都是错的，因为有很多有效理论违反它们。实际上，理论是一种知识，因此诞生于[[Conjecture|猜想（Conjecture）]]，并通过[[Criticism|批判（Criticism）]]得到打磨。并非所有理论都能被检验。相反，它们只能根据是否是[[Good Explanation|好解释（Good Explanation）]]来评估。\n\n[[Good Explanation|好解释（Good Explanation）]]和[[Bad Explanation|坏解释（Bad Explanation）]]之所以有客观差异，是因为好解释[[Hard to vary|难以改变（Hard to vary）]]。解释天生容易出错，见[[Fallibilism|可错论（Fallibilism）]]，因此我们需要[[Criticism|批判（Criticism）]]和[[Error Correction|错误校正（Error Correction）]]。解释可以具有无边界的[[Reach|触达范围（Reach）]]，也就是能够用于解决未曾预见的问题。\n\n只要有正确解释，所有[[Problems|问题（Problems）]]都可以解决；唯一限制是自然法则。然而，寻找[[Explanation|解释（Explanation）]]又会创造新问题。因此，问题不可避免。\n\n一旦这些解释被记录在某处，它们就变成了[[Knowledge|知识（Knowledge）]]。数十亿年来，[[Knowledge Creation|知识创造（Knowledge Creation）]]仅限于生物[[Evolution|进化（Evolution）]]：缓慢而随机的变化，被写入我们的 DNA。随后，7000 年前我们发明了语言，5000 年前发明了文字，582 年前发明了印刷机，而很晚近才有了计算机和硬盘。每个阶段都让知识创造速率发生阶跃式变化，尤其是从生物进化跃迁到[[People|人（People）]]的思想。\n\n[[Explanation|解释（Explanation）]]是一种信息，而信息基本上只能以一种方式被处理：通过巴贝奇（Babbage）和图灵（Turing）发明的那类[[Universal Computation|通用计算（Universal Computation）]]。\n\n[[Universal System|通用系统（Universal System）]]是能够表示所有状态的系统。我们的 DNA 是已知的第一个通用系统。通过 A、T、G、C 的组合，你可以编码一只鸡，也可以编码一只霸王龙。从非通用系统跃迁到通用系统，是人类进步道路上的里程碑。例如，从象形文字转向字母表，或从刻痕计数转向印度数字系统。每一次，我们都从低效、不可扩展、每一步都需要定制的系统，升级到高效、可扩展的通用系统，从而推动人类进步跨越式前进。\n\n通用系统具有[[Reach|触达范围（Reach）]]，也就是非预期的潜能。例如，只要有足够内存和时间，你洗衣机里的计算机也可以做天体物理计算。奇怪的是，大多数通向[[Universality|普遍性（Universality）]]的跃迁都是偶然发生的。只有自[[Enlightenment|启蒙运动（Enlightenment）]]以来，人们才理解并主动追求它们的重要性。\n\n[[Principle of Mediocrity|平庸原则（Principle of Mediocrity）]]，也就是“我们在宇宙中没什么特殊”，以及[[Spaceship Earth|地球飞船（Spaceship Earth）]]，也就是“地球为我们提供了理想环境”，二者都是错的。地球给我们提供生命维持系统的程度，并不比它给我们提供射电望远镜更多。而[[People|人（People）]]作为[[Universal Explainers|通用解释者（Universal Explainers）]]，能够对宇宙产生宇宙尺度的影响。\n\n创造[[Knowledge|知识（Knowledge）]]的实体，也就是[[People|人（People）]]，几乎可以存在于宇宙任何地方。只要有正确知识，[[People|人（People）]]就可以在空旷太空中创造理想环境，例如收集氢原子并把它们嬗变成空间站。\n\n[[Technology|技术（Technology）]]一旦被创造出来，就是自动化的。我们不必思考真空，或在太空中生存的复杂性，就像你不会每天思考房屋保温层一样。\n\n生物[[Evolution|进化（Evolution）]]只是进化主线故事的前奏；主线故事是[[Memes|模因（Memes）]]的无边界进化：也就是那些促使自身复制的思想，又称[[Replicators|复制子（Replicators）]]。模因在许多方面类似基因，但它们的进化方式也有深刻差异。\n\n你可以把[[Memes|模因（Memes）]]理解为在人与人之间广泛传播的任何思想。例如，一种语言、一个科学理论或一种宗教信念，都是模因。模因必须被主动复制才能存活，也就是被说出、写下并传播。[[Rational Meme|理性模因（Rational Meme）]]是一种[[Good Explanation|好解释（Good Explanation）]]，它依靠接受者的批判能力促使自身被复制。[[Anti-rational Meme|反理性模因（Anti-rational Meme）]]是一种[[Bad Explanation|坏解释（Bad Explanation）]]，并且总是依靠劫持基本情绪来复制，比如利用恐惧或愤怒。一组[[Memes|模因（Memes）]]构成一种[[Culture|文化（Culture）]]。\n\n多伊奇把[[Optimism|乐观主义（Optimism）]]定义为一种理论：所有失败都源于[[Knowledge|知识（Knowledge）]]不足。这并不意味着仿佛坏结果不会发生那样行事，因为问题是不可避免的；他把那称为[[Blind Optimism|盲目乐观（Blind Optimism）]]。相反，[[Blind Pessimism|盲目悲观（Blind Pessimism）]]则是避开一切尚未被证明安全的东西。\n\n[[Dynamic Societies|动态社会（Dynamic Societies）]]倾向于[[Optimism|乐观主义（Optimism）]]和[[Rational Meme|理性模因（Rational Meme）]]。因为它们体现了[[Enlightenment|启蒙运动（Enlightenment）]]原则，所以能快速进步。[[Static Societies|静态社会（Static Societies）]]害怕变化，由[[Anti-rational Meme|反理性模因（Anti-rational Meme）]]主导，并压制[[Conjecture|猜想（Conjecture）]]和[[Criticism|批判（Criticism）]]。\n\n不存在数学上可证明公平的[[Governing|治理（Governing）]]形式。因此，最重要的是当有必要时，能够移除领导者，见[[Criticism|批判（Criticism）]]和[[Error Correction|错误校正（Error Correction）]]。\n\n人类从来不是可持续的。所谓曾经有一段宁静时代，人类与自然、彼此和平共处，只是一个神话。直到非常晚近，生存都极其残酷。而最终，如果我们不作出不同选择，我们会被某个灭绝事件消灭。只有创造正确的[[Knowledge|知识（Knowledge）]]，我们才能获救。\n\n我们不应把（表面上的）[[Sustainability|可持续性（Sustainability）]]当作规划的抱负或约束。例如，面对全球变暖，我们不应只试图解决其中“人为”的部分。如果地球进入新的冰河期，或危险地变暖，我们都应解决它，而不管这个问题有多少是人为造成的。\n\n既然所有问题都可以用正确[[Knowledge|知识（Knowledge）]]解决，而我们人类作为[[Universal Explainers|通用解释者（Universal Explainers）]]，又有潜力获得任何知识，那么我们就可以对宇宙产生宇宙尺度的影响。我们不仅能生存，还能在整个银河系以及更远处探索、学习和繁荣。只要我们如此选择。\n"
+  },
+  {
+    "path": "Principle of Mediocrity",
+    "markdown": "# 平庸原则（Principle of Mediocrity）\n\n一种误解：从宇宙尺度上说，人类没有任何重要之处；任何声称相反的说法，比如太阳绕地球转，都是错的。\n\n这种哲学曾作为一条经验法则，有助于反驳关于宇宙的[[Anthropocentric|人类中心主义（Anthropocentric）]]解释。但它最终是错的，因为人类是能创造[[Knowledge|知识（Knowledge）]]的[[People|人（People）]]，因此具有无限潜力。\n"
+  },
+  {
+    "path": "Problems",
+    "markdown": "# 问题（Problems）\n\n问题不可避免，因为寻找[[Good Explanation|好解释（Good Explanation）]]会创造新问题，而我们的[[Knowledge|知识（Knowledge）]]永远不会完整。\n\n有些问题很难，但把难题和无法解决的问题混为一谈，是一个错误。\n\n只要有正确知识，所有问题都是可解的；唯一限制是物理法则。\n\n爱迪生有句名言：天才是 1% 的灵感加 99% 的汗水。但一旦某个问题被解决，并创造出一种[[Technology|技术（Technology）]]，汗水那一部分就被自动化了。\n"
+  },
+  {
+    "path": "Progress",
+    "markdown": "# 进步（Progress）\n\n在人类历史的绝大部分时间里，我们几乎没有取得任何进步。我们的物种已经存在 20 万年；在其中绝大多数时间里，人们活着、思考着、受苦着，也想要各种东西。但没有什么真正改善。即使发生了改进，也慢到考古学家无法区分相隔数千年的器物。\n\n后来出现了缓慢改善，然后是更快的改善。后来又出现了把[[Criticism|批判（Criticism）]]传统制度化的尝试，而批判正是快速进步的关键，也就是能在一个人的一生中被察觉的进步。同时还有[[Error Correction|错误校正（Error Correction）]]，使倒退更不可能发生。这种尝试发生过几次，但每次都失败了，只有一次例外：十七、十八世纪欧洲的[[Enlightenment|启蒙运动（Enlightenment）]]。\n\n在人类存在的几乎全部时间里，我们都有创造力，也有能力取得进步，但我们没有。为什么？因为我们的文化错了。这不是我们的错。文化进化有一种恶劣倾向：压制我们会认为是科学或任何真正能改善生活的重要东西的增长。但这种静态炼狱完全可能再次发生。除了我们努力阻止它，没有任何东西能够防止它。\n\n另见：\n\n- [[Static Societies|静态社会（Static Societies）]]\n- [[Dynamic Societies|动态社会（Dynamic Societies）]]\n"
+  },
+  {
+    "path": "Qualia",
+    "markdown": "# 感质（Qualia）\n\n感觉的主观面向，例如意识。\n"
+  },
+  {
+    "path": "Rational Meme",
+    "markdown": "# 理性模因（Rational Meme）\n\n一种思想：它依靠接受者的批判能力来促使自己被复制。\n"
+  },
+  {
+    "path": "Reach",
+    "markdown": "# 触达范围（Reach）\n\n某些解释具有这样一种能力：它们能解决超出最初被创造来解决的问题之外的问题。\n"
+  },
+  {
+    "path": "Replicators",
+    "markdown": "# 复制子（Replicators）\n\n一种实体：它在因果上促成自身被复制。\n\n思想是一类复制子。例如，一个有说服力的宗教，或一个好笑话，会促使自身被复制。我们把这类复制子称为[[Memes|模因（Memes）]]。\n"
+  },
+  {
+    "path": "Science",
+    "markdown": "# 科学（Science）\n\n科学是寻找好[[Explanation|解释（Explanation）]]的实践。\n\n科学是一种处理理论的方式，而不取决于人们是否相信这些理论。理论根据它们是否是好解释来评判。如果某个特定解释最终成为唯一经受住理性和科学强烈批判的解释，那么在那一刻，它与其说是被采纳，不如说只是尚未被抛弃。它暂时存活了下来。\n\n一个常见误解是：科学可以还原为可检验的东西。尽管科学中有很多可检验理论，可检验性并不是必要条件。我们更应该看一个理论是否是[[Good Explanation|好解释（Good Explanation）]]。\n\n还有另一个常见误解：科学和其他任何声称描述现实的学科，比如哲学之间，存在一条清晰界线。但最终，它们都是在寻找[[Good Explanation|好解释（Good Explanation）]]的学科。\n"
+  },
+  {
+    "path": "Spaceship Earth",
+    "markdown": "# 地球飞船（Spaceship Earth）\n\n一种误解：地球是一个独特的生物圈，人类被限制在其中，而自然会现成地提供我们的一切需要，比如食物、住所、水，等等。\n\n实际上，地球从来没有把我们的优先事项放在心上。自最早时期起，我们就必须创造技术来生存。即使在今天，没有这样的技术，我们在牛津的冬天里也只能活几个小时。\n\n所以，你已经是一名宇航员。你的处境和一个成熟火星殖民地中的人一样脆弱，只不过你把某些技术进步视为理所当然。而且没有理由认为，除非发生某种灾难，无论它是否由我们造成，地球之外的未来不会等待着我们。\n\n[[Technology|技术（Technology）]]一旦被创造出来，就是自动化的。我们不必再思考它。以你的衬衫为例。它一旦被制造出来，就每天为你保暖；它不是你每天早晨都要配置、也不需要投入脑力的东西。\n\n现实是，只要有正确知识，我们几乎可以在宇宙任何地方生存。不仅能生存，还能繁荣，并创造一个完全符合我们需求的美丽环境。\n\n即使在完全空旷的太空区域，我们也可以设想建造一座空间站：收集散布于宇宙中的氢原子，并把它们嬗变成我们需要的材料。\n\n这样的空间站随后可以依据当地物理条件，以及从星光中流入的“证据”进行实验，创造更多[[Knowledge|知识（Knowledge）]]，并扩展[[People|人（People）]]对宇宙的影响。\n"
+  },
+  {
+    "path": "Static Societies",
+    "markdown": "# 静态社会（Static Societies）\n\n一种社会：其变化发生在比其成员能够察觉的时间尺度更长的尺度上。这样的文化由反理性模因（anti-rational memes）主导。\n\n另见：\n- [[Dynamic Societies|动态社会（Dynamic Societies）]]\n- [[Rational Meme|理性模因（Rational Meme）]]\n- [[Anti-rational Meme|反理性模因（Anti-rational Meme）]]\n"
+  },
+  {
+    "path": "Sustainability",
+    "markdown": "# 可持续性（Sustainability）\n\n这个词有两个几乎相反、却常被混淆的含义：为某人提供所需之物，以及阻止事物改变。\n\n智人从来不是可持续的。没有任何物种是可持续的，99% 的物种都已经灭绝。最终，除非我们作出不同选择，人类也会被某次冰河期、陨石、超新星等事件消灭。\n\n我们可以回到某个史前时代，那时生活是可持续的，人人像霍比特人一样宁静生活，这种想法并不扎根于现实。只有[[Knowledge|知识（Knowledge）]]能拯救我们。只有[[Progress|进步（Progress）]]是可持续的。\n"
+  },
+  {
+    "path": "Technology",
+    "markdown": "# 技术（Technology）\n\n人类创造的一切都是技术的一种形式。从笔记本电脑，到衬衫，再到窗户，都是如此。\n\n技术一旦被创造出来，对它的使用就可以自动化。例如，你每天早晨不必思考你的衬衫，它也会让你保暖。\n\n这种自动化一直延伸到极其复杂的技术，比如让空间站隔绝真空。设置好，然后忘掉它。\n\n另见：\n- [[Spaceship Earth|地球飞船（Spaceship Earth）]]\n"
+  },
+  {
+    "path": "Testability",
+    "markdown": "# 可检验性（Testability）\n\n可检验性现在通常被视为科学方法的定义特征。波普尔称它为区分科学与非科学的“划界标准”（criterion of demarcation）。然而，可检验性也不可能是科学革命中的决定性因素。与常见说法相反，可检验的预测一直都很常见。每一条制作燧石刀片或生火的传统经验法则都是可检验的。每一个自称太阳会在下周二熄灭的准先知，都有一个可检验理论。每一个凭直觉觉得“今晚我走运，我能感觉到”的赌徒也是如此。那么，科学中存在、而先知和赌徒的可检验理论中缺失的那个关键的、能促成进步的成分是什么？可检验性不够的原因在于：预测不是，也不可能是科学的目的。\n"
+  },
+  {
+    "path": "Universal Computation",
+    "markdown": "# 通用计算（Universal Computation）\n\n任何能被写成程序的东西，只要有合适内存和足够时间，就可以被计算出来。\n\n[[Explanation|解释（Explanation）]]是一种信息，而信息基本上只能以一种方式被处理：用巴贝奇（Babbage）和图灵（Turing）发明的那类计算来处理。\n\n计算机是通用的，意思是：只要给出正确程序，它们就能执行任何信息转化，包括创造解释和其他知识。\n\n这里可能存在的限制只有两种。一种是缺少计算机内存，也就是信息存储能力；另一种是缺少速度，或者说缺少时间。\n\n几千年来，我们一直在通过发明文字、书写工具，甚至语言本身来提高记忆容量和计算速度；语言让不止一个人能够共同处理同一个问题，并协调他们对问题的理解。如今，我们使用计算机；未来，我们还可以使用计算机植入物，等等。\n\n另见：\n- [[Universal System|通用系统（Universal System）]]\n"
+  },
+  {
+    "path": "Universal Constructor",
+    "markdown": "# 通用构造器（Universal Constructor）\n\n一种构造器：只要给出正确的信息，它就能使任何原材料发生任何物理上可能的转化。\n"
+  },
+  {
+    "path": "Universal Explainers",
+    "markdown": "# 通用解释者（Universal Explainers）\n\n人类相对于其他动物唯一独特而重要的地方，是我们创造新解释的能力。我们是通用解释者（universal explainers）。\n\n换句话说，只要有足够[[Knowledge|知识（Knowledge）]]，不存在任何人类无法解释的问题。\n\n另见：\n- [[Universal Constructor|通用构造器（Universal Constructor）]]\n- [[People|人（People）]]\n"
+  },
+  {
+    "path": "Universal System",
+    "markdown": "# 通用系统（Universal System）\n\n一种能够表示所有状态的系统。\n\n我们知道的第一个通用系统是 DNA。我们仍然不理解它的通用本质，但通过 DNA，你可以编码一只鸡，也可以编码一只霸王龙。\n\n大脑和计算机都是通用系统。\n\n非通用系统的例子：\n- 象形文字\n- 刻痕计数系统（只有数字化后，刻痕才是通用的）\n- 罗马数字\n\n通用系统的例子：\n- 印度数字系统（0-9）\n- 字母表\n- DNA（ATGC）\n- 计算机（二进制）\n\n另见：\n\n- [[Jump to Universality|向普遍性的跃迁（Jump to Universality）]]\n"
+  },
+  {
+    "path": "Universality",
+    "markdown": "# 普遍性（Universality）\n\n表示每一种可能状态的能力。\n\n另见：\n- [[Universal System|通用系统（Universal System）]]\n- [[Jump to Universality|向普遍性的跃迁（Jump to Universality）]]\n- [[Universal Computation|通用计算（Universal Computation）]]\n"
+  },
+  {
+    "path": "Unsustainable",
+    "markdown": "# 不可持续（Unsustainable）\n\n一种无法以当前速率或水平维持下去的做法或生活方式。这个词常用于环境语境中，例如：人类人口增长是不可持续的。\n\n实际上，没有任何东西是可持续的。问题不可避免，最终会有一个足够大的问题出现，阻止你维持既有行动路线。\n\n例如，恐龙有多“绿色”并不重要；它们没有燃烧化石燃料，也没有大规模增长人口，但最终一颗小行星还是消灭了它们，因为它们没有创造出足够技术来阻止这件事发生。\n\n[[Static Societies|静态社会（Static Societies）]]，比如复活节岛居民，最终失败并不是因为它们耗尽了所有资源，而是因为它们未能创造出解决问题、拯救自己的[[Knowledge|知识（Knowledge）]]。\n\n换句话说，要继续骑在这股不可持续性的浪潮上，唯一方式就是创造更多[[Knowledge|知识（Knowledge）]]来解决我们的问题。\n\n另见：\n\n- [[Sustainability|可持续性（Sustainability）]]\n- [[Wealth|财富（Wealth）]]\n"
+  },
+  {
+    "path": "Wealth",
+    "markdown": "# 财富（Wealth）\n\n一个人有能力造成的物理转化的全部组合。\n"
+  }
+]

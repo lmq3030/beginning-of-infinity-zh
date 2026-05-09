@@ -1,33 +1,27 @@
-import fs from 'fs/promises'
-import path from 'path'
 import parseFrontMatter from 'front-matter'
 import {Note, NotePreview, NOTE_INDEX_NAME} from 'app/interfaces/note'
+import notesData from 'server/generated/notes-data.json'
 
-const notesPath = path.join(process.cwd(), 'notes')
-
-export const getNotes = async () => {
-  const dir = await fs.readdir(notesPath)
-
-  const noteNames = dir
-    .filter((name) => name.endsWith('.md'))
-    .map((name) => name.replace('.md', ''))
-
-  return Promise.all(noteNames.map((name) => readNote(name)))
+interface NoteSource {
+  path: string
+  markdown: string
 }
 
-const readNote = async (name: string): Promise<Note> => {
-  const escapedName = path.basename(name)
+const noteSources = notesData as NoteSource[]
 
-  const file = await fs.readFile(path.join(notesPath, escapedName + '.md'), 'utf8')
+export const getNotes = async () => {
+  return noteSources.map(readNote)
+}
 
+const readNote = (source: NoteSource): Note => {
   const {attributes, body} = parseFrontMatter<{
     title: string | undefined
     snippet: string | undefined
-  }>(file.toString())
+  }>(source.markdown)
 
   return {
-    path: name,
-    title: attributes?.title || markdownToTitle(body) || name,
+    path: source.path,
+    title: attributes?.title || markdownToTitle(body) || source.path,
     snippet: attributes?.snippet || markdownToSnippet(body),
     markdown: body,
     linkedFromNotes: [],
@@ -85,10 +79,7 @@ const hasBacklink = (markdown: string, name: string): boolean => {
 }
 
 export const getNote = async (name: string): Promise<Note | null> => {
-  try {
-    return await readNote(name)
-  } catch (error) {
-    console.error(error)
-    return null
-  }
+  const source = noteSources.find((note) => note.path === name)
+
+  return source ? readNote(source) : null
 }

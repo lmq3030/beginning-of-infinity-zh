@@ -18,12 +18,35 @@
 
 克隆仓库并安装依赖。
 
+```bash
+yarn install
+```
+
 然后运行开发服务器：
 
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
 用浏览器打开 [http://localhost:3000](http://localhost:3000) 查看页面。
+
+## 部署到 Vercel
+
+这个仓库已经为 Vercel 做了准备，可以直接在 Vercel Dashboard 里导入 GitHub 仓库：
+
+1. 在 Vercel 选择 **Add New Project**。
+2. 导入 `lmq3030/beginning-of-infinity-zh`。
+3. Framework Preset 选择 **Next.js**。
+4. Build Command 使用 `yarn build`。
+5. Install Command 使用 `yarn install --frozen-lockfile`。
+6. 不需要配置环境变量。
+
+构建时会先运行 `yarn generate:notes`，把 `notes/` 里的 Markdown 生成到 `server/generated/notes-data.json`。这样部署后的页面和 API routes 都可以稳定读取笔记内容，不依赖运行时文件夹扫描。
+
+如果之后修改了 `notes/` 里的内容，本地可以运行：
+
+```bash
+yarn generate:notes
+```
+
+然后提交生成后的 `server/generated/notes-data.json`。

@@ -2,7 +2,10 @@
   "name": "beginning-of-infinity",
   "private": true,
   "scripts": {
+    "generate:notes": "node scripts/generate-notes-data.mjs",
+    "predev": "yarn generate:notes",
     "dev": "next dev",
+    "prebuild": "yarn generate:notes",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
