@@ -37,5 +37,5 @@ Naval 相关内容是有意加入的外部延伸来源，不再作为 precision 
 
 1. 给笔记增加来源层级：原书核心、原书支撑、外部延伸。这样 knowledge graph 可以过滤，precision 会更清楚。
 2. Naval 相关段落保留为外部延伸；后续只需要统一标注来源层级，不需要移除。
-3. 继续加强三个薄节点：`Infinity`、`Qualia`、`Wealth`。它们目前定义太短，在图中有节点但解释力不足。
-4. 如果想让 recall 更接近全书细节，可以再补 `Probability`, `Decision Theory`, `Tradition`, `Justificationism` 这类二级节点，但它们不如本轮新增节点优先。
+3. 如果想让 recall 更接近全书细节，可以再补 `Probability`, `Decision Theory`, `Tradition`, `Justificationism` 这类二级节点；它们属于第二优先级，不影响当前版本发布。
+4. 后续可以把 `source` 元数据接入 knowledge graph，让读者在“原书核心”和“外部延伸”之间切换视图。

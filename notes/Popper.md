@@ -11,4 +11,4 @@
 - [[Criticism|批判（Criticism）]]
 - [[Fallibilism|可错论（Fallibilism）]]
 - [[Governing|治理（Governing）]]
-- https://plato.stanford.edu/entries/popper/
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/popper/)

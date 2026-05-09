@@ -24,7 +24,7 @@ title: 无穷的开始（The Beginning of Infinity）
 
 只要有正确解释，所有[[Problems|问题（Problems）]]都可以解决；唯一限制是自然法则。然而，寻找[[Explanation|解释（Explanation）]]又会创造新问题。因此，问题不可避免。
 
-一旦这些解释被记录在某处，它们就变成了[[Knowledge|知识（Knowledge）]]。数十亿年来，[[Knowledge Creation|知识创造（Knowledge Creation）]]仅限于生物[[Evolution|进化（Evolution）]]：缓慢而随机的变化，被写入我们的 DNA。在达尔文之前，人们试图用神创论、拉马克主义和自然发生说来解释生物的精巧适应性，但这些都是[[Bad Explanations for Biology|坏解释（Bad Explanations for Biology）]]——容易随意改变，回避了知识从何而来的根本问题。随后，7000 年前我们发明了语言，5000 年前发明了文字，582 年前发明了印刷机，而很晚近才有了计算机和硬盘。每个阶段都让知识创造速率发生阶跃式变化，尤其是从生物进化跃迁到[[People|人（People）]]的思想。
+一旦这些解释被记录在某处，它们就变成了[[Knowledge|知识（Knowledge）]]。数十亿年来，[[Knowledge Creation|知识创造（Knowledge Creation）]]仅限于生物[[Evolution|进化（Evolution）]]：缓慢而随机的变化，被写入我们的 DNA。在达尔文之前，人们试图用神创论、拉马克主义和自然发生说来解释生物的精巧适应性，但这些都是[[Bad Explanations for Biology|关于生物知识的坏解释（Bad Explanations for Biology）]]——容易随意改变，回避了知识从何而来的根本问题。随后，7000 年前我们发明了语言，5000 年前发明了文字，582 年前发明了印刷机，而很晚近才有了计算机和硬盘。每个阶段都让知识创造速率发生阶跃式变化，尤其是从生物进化跃迁到[[People|人（People）]]的思想。
 
 [[Explanation|解释（Explanation）]]是一种信息，而信息基本上只能以一种方式被处理：通过巴贝奇（Babbage）和图灵（Turing）发明的那类[[Universal Computation|通用计算（Universal Computation）]]。但解释不只存在于底层物理描述里；程序、制度、道德规则和知识本身都属于[[Abstraction|抽象的现实（Abstract Reality）]]。[[Reductionism|还原论（Reductionism）]]把这些层级当成幻觉，因此会误解现实。
 
