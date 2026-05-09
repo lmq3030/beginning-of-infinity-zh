@@ -283,15 +283,16 @@ export const KnowledgeGraph: React.FC = () => {
   }, [forceGraph])
 
   const focusPath = hoveredPath || selectedPath
+  const detailPath = selectedPath || hoveredPath
   const activeNode = useMemo(() => {
     if (!graph) return null
 
     return (
-      graph.nodes.find((node) => node.path === focusPath) ||
+      graph.nodes.find((node) => node.path === detailPath) ||
       graph.nodes.find((node) => node.path === 'Preface') ||
       graph.nodes[0]
     )
-  }, [focusPath, graph])
+  }, [detailPath, graph])
   const importantNodes = useMemo(() => graph?.nodes.slice(0, 8) || [], [graph])
 
   const pointFromPointer = useCallback((event: React.PointerEvent<SVGSVGElement>) => {
@@ -326,6 +327,7 @@ export const KnowledgeGraph: React.FC = () => {
       node.fy = node.y
       setDraggedPath(node.path)
       setHoveredPath(node.path)
+      setSelectedPath(node.path)
       svgRef.current?.setPointerCapture(event.pointerId)
       simulationRef.current?.alphaTarget(0.22).restart()
     },
@@ -486,7 +488,10 @@ export const KnowledgeGraph: React.FC = () => {
                     width={graphWidth}
                     height={graphHeight}
                     fill="#f8fafc"
-                    onClick={() => setSelectedPath(undefined)}
+                    onClick={() => {
+                      setHoveredPath(undefined)
+                      setSelectedPath(undefined)
+                    }}
                   />
 
                   <g>
