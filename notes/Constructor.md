@@ -1,5 +1,13 @@
 # 构造器（Constructor）
 
-一种装置：它能够使其他对象发生转化，而自身不发生净变化。
+一种装置：它能引起某种转化，同时自身保持不变（或恢复到初始状态），从而可以再次引起同样的转化。
 
-Deutsch, David. The Beginning of Infinity (p. 76). Penguin Publishing Group. Kindle Edition.
+催化剂是化学层面的构造器。生物体是更复杂的构造器——一棵苹果树把阳光、水和二氧化碳转化成苹果，同时自己还是一棵苹果树。工厂是人工构造器。Deutsch 的构造器理论（constructor theory）试图用"什么转化是可能的、什么转化是不可能的"来重新表述物理学的基本定律，取代传统的"给定初始条件，会发生什么"的表述方式。
+
+传统物理学描述轨迹：这个粒子从 A 点到 B 点。构造器理论描述的是可能与不可能的边界：哪些转化在物理上可以被反复执行？这种重新表述的好处在于，它自然地把信息、知识、生命这些概念纳入了基础物理的框架，而不是把它们当成"仅仅是涌现的副产品"。
+
+[[Universal Constructor|通用构造器（Universal Constructor）]]是构造器概念的极限情况：一种能引起任何物理上被允许的转化的装置。
+
+另见：
+- [[Universal Constructor|通用构造器（Universal Constructor）]]
+- [[Emergent phenomena|涌现现象（Emergent phenomena）]]

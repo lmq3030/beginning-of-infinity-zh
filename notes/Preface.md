@@ -14,7 +14,7 @@ title: 无穷的开始（The Beginning of Infinity）
 
 [[Enlightenment|启蒙运动（Enlightenment）]]向我们表明，进步既可能实现，也值得追求。它建立了一种[[Conjecture|猜想（Conjecture）]]与[[Criticism|批判（Criticism）]]的文化，而这两者是任何学科中实现快速进步的关键组成部分，从[[Science|科学（Science）]]到[[Morality|道德（Morality）]]皆是如此。
 
-[[Science|科学（Science）]]是寻找[[Good Explanation|好解释（Good Explanation）]]的实践：说明那里有什么、它做什么，以及它如何、为何如此。[[Morality|道德（Morality）]]关心的是接下来该做什么；更一般地说，它关心该过怎样的生活，以及该想要一个怎样的世界。两个学科都是解释性的、理性的、客观的。
+[[Science|科学（Science）]]是寻找[[Good Explanation|好解释（Good Explanation）]]的实践：说明那里有什么、它做什么，以及它如何、为何如此。[[Morality|道德（Morality）]]关心的是接下来该做什么；更一般地说，它关心该过怎样的生活，以及该想要一个怎样的世界。两个学科都是解释性的、理性的、客观的。甚至[[Beauty|美（Beauty）]]也是客观的——花为昆虫进化出美丽，而人类碰巧也觉得花美，这说明审美不是任意偏好，而是反映了某种可被任何复杂信息处理系统检测到的结构。
 
 关于科学理论从何而来，有许多误解。一个流行误解是[[Empiricism|经验主义（Empiricism）]]，即我们从感官中推导理论。另一个是[[Inductivism|归纳主义（Inductivism）]]，即未来会类似过去。[[Testability|可检验性（Testability）]]也常被视为科学方法的定义特征。所有这些都是错的，因为有很多有效理论违反它们。实际上，理论是一种知识，因此诞生于[[Conjecture|猜想（Conjecture）]]，并通过[[Criticism|批判（Criticism）]]得到打磨。并非所有理论都能被检验。相反，它们只能根据是否是[[Good Explanation|好解释（Good Explanation）]]来评估。
 
@@ -22,9 +22,11 @@ title: 无穷的开始（The Beginning of Infinity）
 
 只要有正确解释，所有[[Problems|问题（Problems）]]都可以解决；唯一限制是自然法则。然而，寻找[[Explanation|解释（Explanation）]]又会创造新问题。因此，问题不可避免。
 
-一旦这些解释被记录在某处，它们就变成了[[Knowledge|知识（Knowledge）]]。数十亿年来，[[Knowledge Creation|知识创造（Knowledge Creation）]]仅限于生物[[Evolution|进化（Evolution）]]：缓慢而随机的变化，被写入我们的 DNA。随后，7000 年前我们发明了语言，5000 年前发明了文字，582 年前发明了印刷机，而很晚近才有了计算机和硬盘。每个阶段都让知识创造速率发生阶跃式变化，尤其是从生物进化跃迁到[[People|人（People）]]的思想。
+一旦这些解释被记录在某处，它们就变成了[[Knowledge|知识（Knowledge）]]。数十亿年来，[[Knowledge Creation|知识创造（Knowledge Creation）]]仅限于生物[[Evolution|进化（Evolution）]]：缓慢而随机的变化，被写入我们的 DNA。在达尔文之前，人们试图用神创论、拉马克主义和自然发生说来解释生物的精巧适应性，但这些都是[[Bad Explanations for Biology|坏解释（Bad Explanations for Biology）]]——容易随意改变，回避了知识从何而来的根本问题。随后，7000 年前我们发明了语言，5000 年前发明了文字，582 年前发明了印刷机，而很晚近才有了计算机和硬盘。每个阶段都让知识创造速率发生阶跃式变化，尤其是从生物进化跃迁到[[People|人（People）]]的思想。
 
 [[Explanation|解释（Explanation）]]是一种信息，而信息基本上只能以一种方式被处理：通过巴贝奇（Babbage）和图灵（Turing）发明的那类[[Universal Computation|通用计算（Universal Computation）]]。
+
+多伊奇认为，对现实的理解建立在[[Four Strands|四条线索（Four Strands）]]之上：波普尔的认识论、图灵的计算理论、达尔文的进化论、Everett 的量子多重宇宙解释。这四条线索在深层互相依赖，割裂来看会遗漏它们之间的关系。
 
 [[Universal System|通用系统（Universal System）]]是能够表示所有状态的系统。我们的 DNA 是已知的第一个通用系统。通过 A、T、G、C 的组合，你可以编码一只鸡，也可以编码一只霸王龙。从非通用系统跃迁到通用系统，是人类进步道路上的里程碑。例如，从象形文字转向字母表，或从刻痕计数转向印度数字系统。每一次，我们都从低效、不可扩展、每一步都需要定制的系统，升级到高效、可扩展的通用系统，从而推动人类进步跨越式前进。
 
@@ -40,7 +42,7 @@ title: 无穷的开始（The Beginning of Infinity）
 
 你可以把[[Memes|模因（Memes）]]理解为在人与人之间广泛传播的任何思想。例如，一种语言、一个科学理论或一种宗教信念，都是模因。模因必须被主动复制才能存活，也就是被说出、写下并传播。[[Rational Meme|理性模因（Rational Meme）]]是一种[[Good Explanation|好解释（Good Explanation）]]，它依靠接受者的批判能力促使自身被复制。[[Anti-rational Meme|反理性模因（Anti-rational Meme）]]是一种[[Bad Explanation|坏解释（Bad Explanation）]]，并且总是依靠劫持基本情绪来复制，比如利用恐惧或愤怒。一组[[Memes|模因（Memes）]]构成一种[[Culture|文化（Culture）]]。
 
-多伊奇把[[Optimism|乐观主义（Optimism）]]定义为一种理论：所有失败都源于[[Knowledge|知识（Knowledge）]]不足。这并不意味着仿佛坏结果不会发生那样行事，因为问题是不可避免的；他把那称为[[Blind Optimism|盲目乐观（Blind Optimism）]]。相反，[[Blind Pessimism|盲目悲观（Blind Pessimism）]]则是避开一切尚未被证明安全的东西。
+多伊奇把[[Optimism|乐观主义（Optimism）]]定义为一种理论：所有失败都源于[[Knowledge|知识（Knowledge）]]不足。这并不意味着仿佛坏结果不会发生那样行事，因为问题是不可避免的；他把那称为[[Blind Optimism|盲目乐观（Blind Optimism）]]。相反，[[Blind Pessimism|盲目悲观（Blind Pessimism）]]则是避开一切尚未被证明安全的东西。[[Precautionary Principle|预防原则（Precautionary Principle）]]是盲目悲观的一种伪装——它声称"不确定就不要做"，但不做本身也有风险，而预防原则没有办法衡量不行动的代价。
 
 [[Dynamic Societies|动态社会（Dynamic Societies）]]倾向于[[Optimism|乐观主义（Optimism）]]和[[Rational Meme|理性模因（Rational Meme）]]。因为它们体现了[[Enlightenment|启蒙运动（Enlightenment）]]原则，所以能快速进步。[[Static Societies|静态社会（Static Societies）]]害怕变化，由[[Anti-rational Meme|反理性模因（Anti-rational Meme）]]主导，并压制[[Conjecture|猜想（Conjecture）]]和[[Criticism|批判（Criticism）]]。
 
@@ -48,6 +50,6 @@ title: 无穷的开始（The Beginning of Infinity）
 
 人类从来不是可持续的。所谓曾经有一段宁静时代，人类与自然、彼此和平共处，只是一个神话。直到非常晚近，生存都极其残酷。而最终，如果我们不作出不同选择，我们会被某个灭绝事件消灭。只有创造正确的[[Knowledge|知识（Knowledge）]]，我们才能获救。
 
-我们不应把（表面上的）[[Sustainability|可持续性（Sustainability）]]当作规划的抱负或约束。例如，面对全球变暖，我们不应只试图解决其中“人为”的部分。如果地球进入新的冰河期，或危险地变暖，我们都应解决它，而不管这个问题有多少是人为造成的。
+我们不应把（表面上的）[[Sustainability|可持续性（Sustainability）]]当作规划的抱负或约束。例如，面对全球变暖，我们不应只试图解决其中”人为”的部分。如果地球进入新的冰河期，或危险地变暖，我们都应解决它，而不管这个问题有多少是人为造成的。知识让资源变成无限的——硅是沙子，直到我们有了制造芯片的知识；”资源耗尽”这个概念预设了知识停止增长。
 
 既然所有问题都可以用正确[[Knowledge|知识（Knowledge）]]解决，而我们人类作为[[Universal Explainers|通用解释者（Universal Explainers）]]，又有潜力获得任何知识，那么我们就可以对宇宙产生宇宙尺度的影响。我们不仅能生存，还能在整个银河系以及更远处探索、学习和繁荣。只要我们如此选择。

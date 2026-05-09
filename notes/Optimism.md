@@ -11,6 +11,16 @@
 
 乐观主义也意味着，我们不应害怕外星文明。它们如果要穿越广袤太空来到我们这里，就必须已经达到某种程度的进步。比如，它们很可能已经解决了原子嬗变（atomic transmutation）之类的问题，因此并不需要我们的资源。
 
+Naval 把这个论点推到了极致：知识让资源变成无限的。在人类掌握半导体工艺之前，硅就是沙子。在掌握核能之前，铀就是无用的重金属。所有"资源"都是知识的函数——原子本身没有变，变的是我们知道拿它做什么。一旦掌握了可控聚变或原子嬗变，任何元素都可以从其他元素中制造出来，"稀缺"这个概念就消失了。悲观主义者说的"资源会用完"，隐含了一个从未被证明的假设：知识会停止增长。
+
+乐观主义不是"一切都会好起来"的心态——那是[[Blind Optimism|盲目乐观（Blind Optimism）]]。乐观主义是一种认识论立场：没有任何物理定律禁止我们解决面前的问题，只要我们不停止寻找好解释。
+
+这也引出了[[Fermi Paradox|费米悖论（Fermi Paradox）]]的一个解释：如果乐观主义是正确的，那大过滤器不在物理上，而在认识论上——大多数文明可能卡在了静态社会中，从未走出来。
+
 另见：
 - [[Dynamic Societies|动态社会（Dynamic Societies）]]
 - [[Static Societies|静态社会（Static Societies）]]
+- [[Blind Optimism|盲目乐观（Blind Optimism）]]
+- [[Sustainability|可持续性（Sustainability）]]
+- [[Infinity|无穷（Infinity）]]
+- [[Fermi Paradox|费米悖论（Fermi Paradox）]]
