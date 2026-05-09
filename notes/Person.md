@@ -1,7 +1,7 @@
-# Person
+# 人（Person）
 
-An entity that can create explanatory knowledge.
+一个能够创造解释性知识（explanatory knowledge）的实体。
 
-A person is a form of a [[Universal Explainers]].
+人（person）是[[Universal Explainers|通用解释者（Universal Explainers）]]的一种形式。
 
-See [[People]].
+见[[People|人（People）]]。

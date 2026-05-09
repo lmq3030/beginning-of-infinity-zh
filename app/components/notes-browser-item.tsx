@@ -9,6 +9,7 @@ interface Props {
   note: Note
   index: number
   onClickBacklink?: (event: React.MouseEvent, path: string) => void
+  onClickNote?: () => void
   collapsed?: boolean
   overlay?: boolean
 }
@@ -21,16 +22,26 @@ export const NoteBrowserItemWidthWithoutCollapsed =
 export const NotesBrowserItem: React.FC<Props> = ({
   note,
   onClickBacklink,
+  onClickNote,
   index,
   collapsed = false,
   overlay = false,
 }) => {
+  const onClick = (event: React.MouseEvent) => {
+    const target = event.target as HTMLElement | null
+
+    if (target?.closest('a, button, [data-note-action]')) return
+
+    onClickNote?.()
+  }
+
   return (
     <div
       className={clsx(
         'flex-none flex flex-col sticky bg-white border-r border-gray-100 overflow-y-auto',
         overlay && 'shadow-left-xl',
       )}
+      onClick={onClick}
       style={{
         left: index * 40,
         width: NoteBrowserItemWidth,

@@ -1,6 +1,5 @@
-# Knowledge Streams
+# 知识流（Knowledge Streams）
 
-Almost all environments, suitably primed, could play host to knowledge creation. Even in the vacuum of space you could feasibly hoover up hydrogen atoms and transmute them into a space station. This space-station could then start receiving evidence about the universe by the light of the stars around it, while also performing physics experiments,  generating new streams of knowledge.
+几乎任何经过适当准备的环境，都可以承载知识创造。即使在太空真空中，你也可以设想收集氢原子，并把它们嬗变成一座空间站。随后，这座空间站可以通过周围星光接收关于宇宙的证据，同时进行物理实验，生成新的知识流。
 
-We would normally regard a lunar colony, even after it has become self-sufficient, as having originated on Earth. But what, exactly, will have originated on Earth? In the long run, all its atoms have originated on the moon (or the asteroids). All the energy that it uses has originated in the sun. Only some proportion of its knowledge came from Earth, and, in the hypothetical case of a perfectly isolated colony, that would be a rapidly dwindling proportion.
-
+我们通常会认为，一座月球殖民地即使已经自给自足，也仍然起源于地球。但究竟什么东西起源于地球？从长远看，它的所有原子都来自月球，或小行星。它使用的全部能量都来自太阳。只有一部分知识来自地球；而在一个完全隔离的假想殖民地中，这个比例会迅速下降。

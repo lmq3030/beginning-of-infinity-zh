@@ -1,53 +1,53 @@
 ---
-title: The Beginning of Infinity
+title: 无穷的开始（The Beginning of Infinity）
 ---
 
-The [[Beginning of Infinity]] contains an inspiring message for humanity. Author [[David Deutsch]] describes the processes through which our species has emerged from a dirt-scratching purgatory to today's towering technological heights. And how, in the future, we have the potential to achieve our wildest possible dreams.
+[[Beginning of Infinity|《无穷的开始》（The Beginning of Infinity）]]为人类传达了一个鼓舞人心的信息。作者[[David Deutsch|戴维·多伊奇（David Deutsch）]]描述了这样一组过程：正是通过这些过程，我们这个物种从在泥土中刨食的炼狱，走到今天巍然耸立的技术高度；而在未来，我们有潜力实现最狂野的梦想。
 
-Deutsch shows that, if we choose, no problem is beyond us. With the right [[Knowledge]] humanity can have a cosmically-sized impact upon our universe. We can solve all of our problems from hunger, to global-warming, to disease, to interstellar travel. We are limited solely by the laws of nature. Our progress is but at the start of a road to infinity.
+多伊奇表明，只要我们愿意选择，没有任何问题超出我们的能力之外。只要拥有正确的[[Knowledge|知识（Knowledge）]]，人类就能对宇宙产生宇宙尺度的影响。我们可以解决从饥饿、全球变暖、疾病到星际旅行的一切问题。限制我们的，只有自然法则。我们的进步，只是刚刚站在通向无穷之路的起点。
 
-These are some notes on the book, but we encourage you to [read the real thing](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359).
+这里是一些关于这本书的笔记，但我们仍鼓励你[阅读原书](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359)。
 
 ---
 
-We have made virtually no [[Progress]] over the vast majority of human history. Only recently (mostly since the European [[Enlightenment]]) has progress been discernible inside a human lifetime.
+在人类历史的绝大部分时间里，我们几乎没有取得任何[[Progress|进步（Progress）]]。只有很晚近的时候，主要是欧洲[[Enlightenment|启蒙运动（Enlightenment）]]以来，进步才开始能在一个人的一生中被察觉。
 
-The [[Enlightenment]] showed us progress is both achievable and desirable. It instituted a culture of [[Conjecture]] and [[Criticism]], the two key components for any kind of rapid progress across any discipline from [[Science]] to [[Morality]].
+[[Enlightenment|启蒙运动（Enlightenment）]]向我们表明，进步既可能实现，也值得追求。它建立了一种[[Conjecture|猜想（Conjecture）]]与[[Criticism|批判（Criticism）]]的文化，而这两者是任何学科中实现快速进步的关键组成部分，从[[Science|科学（Science）]]到[[Morality|道德（Morality）]]皆是如此。
 
-[[Science]] is the practice of finding [[Good Explanation]]s, statements about what is there, what it does, and how and why. [[Morality]] is about the problem of what to do next and, more generally, what sort of life to lead, and what sort of world to want. Both disciplines are explanatory, rational, and objective.
+[[Science|科学（Science）]]是寻找[[Good Explanation|好解释（Good Explanation）]]的实践：说明那里有什么、它做什么，以及它如何、为何如此。[[Morality|道德（Morality）]]关心的是接下来该做什么；更一般地说，它关心该过怎样的生活，以及该想要一个怎样的世界。两个学科都是解释性的、理性的、客观的。
 
-There are many misconceptions about where scientific theories are derived from. A popular one is [[Empiricism]], that we derive theories from our senses. Another is [[Inductivism]], that the future will resemble the past. [[Testability]] is also generally accepted as a defining characteristic of the scientific method. All of these are wrong - there are many examples of valid theories that violate them. In reality, theories are a form of knowledge and thus born from [[Conjecture]] and honed through [[Criticism]]. Not all theories can be tested. Instead, they can only be evaluated by whether or not they're [[Good Explanation]]s.
+关于科学理论从何而来，有许多误解。一个流行误解是[[Empiricism|经验主义（Empiricism）]]，即我们从感官中推导理论。另一个是[[Inductivism|归纳主义（Inductivism）]]，即未来会类似过去。[[Testability|可检验性（Testability）]]也常被视为科学方法的定义特征。所有这些都是错的，因为有很多有效理论违反它们。实际上，理论是一种知识，因此诞生于[[Conjecture|猜想（Conjecture）]]，并通过[[Criticism|批判（Criticism）]]得到打磨。并非所有理论都能被检验。相反，它们只能根据是否是[[Good Explanation|好解释（Good Explanation）]]来评估。
 
-[[Good Explanation]]s objectively differ from [[Bad Explanation]]s because they are [[Hard to vary]]. Explanations are inherently error prone (see [[Fallibilism]]) which is why we need [[Criticism]] and [[Error Correction]]. Explanations can have unbounded [[Reach]] (i.e. apply to solve unforeseen problems).
+[[Good Explanation|好解释（Good Explanation）]]和[[Bad Explanation|坏解释（Bad Explanation）]]之所以有客观差异，是因为好解释[[Hard to vary|难以改变（Hard to vary）]]。解释天生容易出错，见[[Fallibilism|可错论（Fallibilism）]]，因此我们需要[[Criticism|批判（Criticism）]]和[[Error Correction|错误校正（Error Correction）]]。解释可以具有无边界的[[Reach|触达范围（Reach）]]，也就是能够用于解决未曾预见的问题。
 
-All [[Problems]] can be solved with the right explanations limited only by the laws of nature. However the search for [[Explanation]]s will create new problems. Hence problems are inevitable.
+只要有正确解释，所有[[Problems|问题（Problems）]]都可以解决；唯一限制是自然法则。然而，寻找[[Explanation|解释（Explanation）]]又会创造新问题。因此，问题不可避免。
 
-Once those explanations are recorded somewhere they become [[Knowledge]]. For billions of years [[Knowledge Creation]] was limited to our biological [[Evolution]], slow and random changes over time inscribed in our DNA. Then 7,000 years ago we invented language, 5,000 years ago writing, 582 years ago printing-presses, and very recently computers and hard-drives. Each stage has been a step change in the rate of knowledge creation, especially the jump from biological evolution to the thoughts of [[People]].
+一旦这些解释被记录在某处，它们就变成了[[Knowledge|知识（Knowledge）]]。数十亿年来，[[Knowledge Creation|知识创造（Knowledge Creation）]]仅限于生物[[Evolution|进化（Evolution）]]：缓慢而随机的变化，被写入我们的 DNA。随后，7000 年前我们发明了语言，5000 年前发明了文字，582 年前发明了印刷机，而很晚近才有了计算机和硬盘。每个阶段都让知识创造速率发生阶跃式变化，尤其是从生物进化跃迁到[[People|人（People）]]的思想。
 
-[[Explanation]]s are a form of information, and information can only be processed in basically one way, with [[Universal Computation]] of the kind invented by Babbage and Turing.
+[[Explanation|解释（Explanation）]]是一种信息，而信息基本上只能以一种方式被处理：通过巴贝奇（Babbage）和图灵（Turing）发明的那类[[Universal Computation|通用计算（Universal Computation）]]。
 
-A [[Universal System]] is one capable of representing all states. Our DNA was the first known universal system. With a combination of ATG and C you can encode a chicken or a T-Rex. Jumps from non-universal to universal systems are the milestones on the road of human progress. For example moving from hieroglyphics to the alphabet, or from tally systems to the Indian numeral system. In each case we upgraded from an inefficient and unscalable system, where each step was customized, to an efficient scalable universal system, leapfrogging human progress.
+[[Universal System|通用系统（Universal System）]]是能够表示所有状态的系统。我们的 DNA 是已知的第一个通用系统。通过 A、T、G、C 的组合，你可以编码一只鸡，也可以编码一只霸王龙。从非通用系统跃迁到通用系统，是人类进步道路上的里程碑。例如，从象形文字转向字母表，或从刻痕计数转向印度数字系统。每一次，我们都从低效、不可扩展、每一步都需要定制的系统，升级到高效、可扩展的通用系统，从而推动人类进步跨越式前进。
 
-Universal Systems have [[Reach]], unintended potential. For example the computer in your washing machine could, given enough memory and time, do astrophysics calculations. Oddly most jumps to [[Universality]] have been accidents. Only since the [[Enlightenment]] has their significance been understood and sought after.
+通用系统具有[[Reach|触达范围（Reach）]]，也就是非预期的潜能。例如，只要有足够内存和时间，你洗衣机里的计算机也可以做天体物理计算。奇怪的是，大多数通向[[Universality|普遍性（Universality）]]的跃迁都是偶然发生的。只有自[[Enlightenment|启蒙运动（Enlightenment）]]以来，人们才理解并主动追求它们的重要性。
 
-Both the [[Principle of Mediocrity]] (we are nothing special in this universe) and [[Spaceship Earth]] (Earth provides the ideal environment for us) are mistaken. Earth no more provides us with a life-support system than it supplies us with radio telescopes. And [[People]], as [[Universal Explainers]], can have a cosmically sized impact upon the universe.
+[[Principle of Mediocrity|平庸原则（Principle of Mediocrity）]]，也就是“我们在宇宙中没什么特殊”，以及[[Spaceship Earth|地球飞船（Spaceship Earth）]]，也就是“地球为我们提供了理想环境”，二者都是错的。地球给我们提供生命维持系统的程度，并不比它给我们提供射电望远镜更多。而[[People|人（People）]]作为[[Universal Explainers|通用解释者（Universal Explainers）]]，能够对宇宙产生宇宙尺度的影响。
 
-[[Knowledge]] creating entities (aka [[People]]) can exist almost anywhere in the universe. With the right knowledge [[People]] could feasibly create an ideally suited environment in an empty area of space by hoovering up and transmuting hydrogen atoms into a space-station.
+创造[[Knowledge|知识（Knowledge）]]的实体，也就是[[People|人（People）]]，几乎可以存在于宇宙任何地方。只要有正确知识，[[People|人（People）]]就可以在空旷太空中创造理想环境，例如收集氢原子并把它们嬗变成空间站。
 
-[[Technology]], once created, is automatic. We will not have to think about vacuums or the complexities around surviving in space (the same way you don't think about your house's insulation).
+[[Technology|技术（Technology）]]一旦被创造出来，就是自动化的。我们不必思考真空，或在太空中生存的复杂性，就像你不会每天思考房屋保温层一样。
 
-Biological [[Evolution]] was a precursor to the main story of evolution, the unbounded evolution of [[Memes]]: ideas that cause themselves to replicate (aka [[Replicators]]). In many ways memes are analogous to genes, but there are also profound differences in the way they evolve.
+生物[[Evolution|进化（Evolution）]]只是进化主线故事的前奏；主线故事是[[Memes|模因（Memes）]]的无边界进化：也就是那些促使自身复制的思想，又称[[Replicators|复制子（Replicators）]]。模因在许多方面类似基因，但它们的进化方式也有深刻差异。
 
-Think of [[Memes]] as any ideas that are passed between lots of people. For example, a language, scientific theory, or religious belief are all memes. Memes have to be actively replicated to survive (i.e. spoken or written and distributed). A [[Rational Meme]] is a [[Good Explanation]] that relies on the recipient's critical faculties to cause itself to be replicated. An [[Anti-rational Meme]] is a [[Bad Explanation]] and invariably relies on hijacking base emotions for replication (tapping into fear or anger). A collection of [[Memes]] forms a [[Culture]].
+你可以把[[Memes|模因（Memes）]]理解为在人与人之间广泛传播的任何思想。例如，一种语言、一个科学理论或一种宗教信念，都是模因。模因必须被主动复制才能存活，也就是被说出、写下并传播。[[Rational Meme|理性模因（Rational Meme）]]是一种[[Good Explanation|好解释（Good Explanation）]]，它依靠接受者的批判能力促使自身被复制。[[Anti-rational Meme|反理性模因（Anti-rational Meme）]]是一种[[Bad Explanation|坏解释（Bad Explanation）]]，并且总是依靠劫持基本情绪来复制，比如利用恐惧或愤怒。一组[[Memes|模因（Memes）]]构成一种[[Culture|文化（Culture）]]。
 
-Deustsch defines [[Optimism]] as the theory that all failures are due to lack of [[Knowledge]]. That doesn't mean proceeding as if there won't be bad outcomes (since problems are inevitable) - he calls that [[Blind Optimism]]. In contrast [[Blind Pessimism]] is avoiding everything not known to be safe.
+多伊奇把[[Optimism|乐观主义（Optimism）]]定义为一种理论：所有失败都源于[[Knowledge|知识（Knowledge）]]不足。这并不意味着仿佛坏结果不会发生那样行事，因为问题是不可避免的；他把那称为[[Blind Optimism|盲目乐观（Blind Optimism）]]。相反，[[Blind Pessimism|盲目悲观（Blind Pessimism）]]则是避开一切尚未被证明安全的东西。
 
-[[Dynamic Societies]] tend towards [[Optimism]] and [[Rational Meme]]s. Because they embody the principles of the [[Enlightenment]] they make rapid progress. [[Static Societies]] fear change, are dominated by [[Anti-rational Meme]]s, and stifle [[Conjecture]] and [[Criticism]].
+[[Dynamic Societies|动态社会（Dynamic Societies）]]倾向于[[Optimism|乐观主义（Optimism）]]和[[Rational Meme|理性模因（Rational Meme）]]。因为它们体现了[[Enlightenment|启蒙运动（Enlightenment）]]原则，所以能快速进步。[[Static Societies|静态社会（Static Societies）]]害怕变化，由[[Anti-rational Meme|反理性模因（Anti-rational Meme）]]主导，并压制[[Conjecture|猜想（Conjecture）]]和[[Criticism|批判（Criticism）]]。
 
-There are no mathematically provably fair forms of [[Governing]] and therefore the most important aspect to get right is to be able to remove leaders (see [[Criticism]] and [[Error Correction]]) when necessary.
+不存在数学上可证明公平的[[Governing|治理（Governing）]]形式。因此，最重要的是当有必要时，能够移除领导者，见[[Criticism|批判（Criticism）]]和[[Error Correction|错误校正（Error Correction）]]。
 
-Humanity was never sustainable. It is a myth that there ever was a time of tranquility where we lived peacefully at one with nature and each other. Existence was absolutely brutal until very recently. And eventually, unless we choose otherwise, we will be wiped out by an extinction event. Only by creating the right [[Knowledge]] can we be saved.
+人类从来不是可持续的。所谓曾经有一段宁静时代，人类与自然、彼此和平共处，只是一个神话。直到非常晚近，生存都极其残酷。而最终，如果我们不作出不同选择，我们会被某个灭绝事件消灭。只有创造正确的[[Knowledge|知识（Knowledge）]]，我们才能获救。
 
-We should not use (the semblance of) [[Sustainability]] as an aspiration or a constraint on planning. For example, we shouldn't just try and solve the 'human' part of global warming. If the earth goes into a new ice-age, or warms dangerously, we should solve that regardless of how much of the problem is man-made or not.
+我们不应把（表面上的）[[Sustainability|可持续性（Sustainability）]]当作规划的抱负或约束。例如，面对全球变暖，我们不应只试图解决其中“人为”的部分。如果地球进入新的冰河期，或危险地变暖，我们都应解决它，而不管这个问题有多少是人为造成的。
 
-Since all problems can be solved with the right [[Knowledge]] and we humans, as [[Universal Explainers]], have the potential to obtain any knowledge, we can have a cosmically sized impact upon the universe. Not only can we survive, but we can explore, learn, and thrive throughout our galaxy and more. If we so choose.
+既然所有问题都可以用正确[[Knowledge|知识（Knowledge）]]解决，而我们人类作为[[Universal Explainers|通用解释者（Universal Explainers）]]，又有潜力获得任何知识，那么我们就可以对宇宙产生宇宙尺度的影响。我们不仅能生存，还能在整个银河系以及更远处探索、学习和繁荣。只要我们如此选择。

@@ -1,12 +1,12 @@
-# Progress
+# 进步（Progress）
 
-We have made virtually no progress over the vast majority of human history. Our species has existed for 200,000 years and for the vast majority of that time, people were alive, they were thinking, they were suffering, and they wanted things. But nothing ever improved. The improvements that did happen happened so slowly that archaeologists can’t distinguish between artifacts from eras separated by thousands of years.
+在人类历史的绝大部分时间里，我们几乎没有取得任何进步。我们的物种已经存在 20 万年；在其中绝大多数时间里，人们活着、思考着、受苦着，也想要各种东西。但没有什么真正改善。即使发生了改进，也慢到考古学家无法区分相隔数千年的器物。
 
-Then there was slow improvement, and then faster improvement. Then there were attempts to institutionalize a tradition of [[Criticism]], which is the key to rapid progress—that is, progress discernible in a human lifetime—and there was also [[Error Correction]], so that regression was less likely. That happened several times and failed every time except once—in the European [[Enlightenment]] of the seventeenth and eighteenth centuries.
+后来出现了缓慢改善，然后是更快的改善。后来又出现了把[[Criticism|批判（Criticism）]]传统制度化的尝试，而批判正是快速进步的关键，也就是能在一个人的一生中被察觉的进步。同时还有[[Error Correction|错误校正（Error Correction）]]，使倒退更不可能发生。这种尝试发生过几次，但每次都失败了，只有一次例外：十七、十八世纪欧洲的[[Enlightenment|启蒙运动（Enlightenment）]]。
 
-For almost the whole of human existence we had the ability to be creative and make progress yet we didn't. Why? Because our culture was wrong. It wasn't our fault. Cultural evolution has a nasty tendency to suppress the growth of what we would consider science or anything important that would improve their lives. But it is entirely possible this static purgatory could happen again. Nothing can prevent it except our working to prevent it.
+在人类存在的几乎全部时间里，我们都有创造力，也有能力取得进步，但我们没有。为什么？因为我们的文化错了。这不是我们的错。文化进化有一种恶劣倾向：压制我们会认为是科学或任何真正能改善生活的重要东西的增长。但这种静态炼狱完全可能再次发生。除了我们努力阻止它，没有任何东西能够防止它。
 
-See also:
+另见：
 
-- [[Static Societies]]
-- [[Dynamic Societies]]
+- [[Static Societies|静态社会（Static Societies）]]
+- [[Dynamic Societies|动态社会（Dynamic Societies）]]

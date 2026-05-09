@@ -1,4 +1,3 @@
-# Blind Optimism
+# 盲目乐观（Blind Optimism）
 
-Proceeding as if one knew that bad outcomes will not happen.
-
+仿佛自己已经知道坏结果不会发生那样行事。

@@ -1,4 +1,3 @@
-# Rational Memes
+# 理性模因（Rational Meme）
 
-An idea that relies on the recipients’ critical faculties to cause itself to be replicated.
-
+一种思想：它依靠接受者的批判能力来促使自己被复制。

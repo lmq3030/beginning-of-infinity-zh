@@ -1,8 +1,8 @@
-# Evolution
+# 进化（Evolution）
 
-The change in the characteristics of a species over several generations through the process of natural selection.
+一个物种的特征在几代之间通过自然选择过程发生变化。
 
-See also:
+另见：
 
-- [[Neo-Darwinism]]
+- [[Neo-Darwinism|新达尔文主义（Neo-Darwinism）]]
 - [Wikipedia](https://en.wikipedia.org/wiki/Evolution)

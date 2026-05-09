@@ -1,9 +1,10 @@
-# Technology
-Everything humans have created is a form of technology. This ranges from laptops, to shirts, to windows.
+# 技术（Technology）
 
-Once technology is created the use of it can be automated. For example, you don't have to think about your shirt every morning for it to keep you warm. 
+人类创造的一切都是技术的一种形式。从笔记本电脑，到衬衫，再到窗户，都是如此。
 
-This automation extends all the way to extremely complex technologies like keeping the vacuum out of space-stations. Set it and forget it.
+技术一旦被创造出来，对它的使用就可以自动化。例如，你每天早晨不必思考你的衬衫，它也会让你保暖。
 
-See also:
-- [[Spaceship Earth]]
+这种自动化一直延伸到极其复杂的技术，比如让空间站隔绝真空。设置好，然后忘掉它。
+
+另见：
+- [[Spaceship Earth|地球飞船（Spaceship Earth）]]

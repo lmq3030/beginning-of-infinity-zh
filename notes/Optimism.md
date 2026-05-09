@@ -1,16 +1,16 @@
-# Optimism
+# 乐观主义（Optimism）
 
-The theory that all failures (all evils) are due to insufficient knowledge. 
-This is the key to the rational philosophy of the unknowable.
+一种理论：所有失败，也就是所有恶，都源于知识不足。
+这是关于不可知之物的理性哲学的关键。
 
-Optimism would be futile if there were fundamental limitations to the creation of knowledge, but there are not. It would be futile if there were fields – especially philosophical fields such as morality – in which there were no such thing as objective progress. But truth does exist in all those fields, and progress towards it is made by seeking good explanations.
+如果知识创造存在根本限制，乐观主义就会是徒劳的；但这种限制并不存在。如果在某些领域，尤其是道德这样的哲学领域，不存在客观进步，乐观主义也会是徒劳的。但真理确实存在于所有这些领域，而通往真理的进步，是通过寻求好解释实现的。
 
-[[Problems]] are inevitable, because our knowledge will always be infinitely far from complete. Some problems are hard, but it is a mistake to confuse hard problems with problems unlikely to be solved. Problems are soluble, and each particular evil is a problem that can be solved. 
+[[Problems|问题（Problems）]]是不可避免的，因为我们的知识永远离完备无限遥远。有些问题很难，但把难题和不太可能被解决的问题混为一谈，是一个错误。问题是可解的，每一种具体的恶，都是一个可以被解决的问题。
 
-An optimistic civilization is open and not afraid to innovate, and is based on traditions of [[Criticism]]. Its institutions keep improving, and the most important knowledge that they embody is knowledge of how to detect and eliminate errors. 
+一个乐观的文明是开放的，不害怕创新，并建立在[[Criticism|批判（Criticism）]]传统之上。它的制度会持续改进，而这些制度所承载的最重要知识，就是如何发现并消除错误。
 
-Optimism also infers that we should not fear extra terrestrial civilisations. For them to travel across the vast expanses of space to us necessitates a certain degree of progress. Most likely they would have had to figure out atomic transmution, for example, and would have no need for our resources. 
+乐观主义也意味着，我们不应害怕外星文明。它们如果要穿越广袤太空来到我们这里，就必须已经达到某种程度的进步。比如，它们很可能已经解决了原子嬗变（atomic transmutation）之类的问题，因此并不需要我们的资源。
 
-See also:
-- [[Dynamic Societies]]
-- [[Static Societies]]
+另见：
+- [[Dynamic Societies|动态社会（Dynamic Societies）]]
+- [[Static Societies|静态社会（Static Societies）]]

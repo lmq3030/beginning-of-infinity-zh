@@ -1,15 +1,14 @@
-# Universal Computation
-Anything that can be written down as a program can be computed given the right memory and enough time.
+# 通用计算（Universal Computation）
 
-[[Explanation]]s are a form of information, and information can only be processed in basically one way—with computation of the kind invented by Babbage and Turing.
+任何能被写成程序的东西，只要有合适内存和足够时间，就可以被计算出来。
 
-Computers are universal, in the sense that given the right program, they can perform any transformation of information whatsoever, including the creation of explanations and other knowledge.
+[[Explanation|解释（Explanation）]]是一种信息，而信息基本上只能以一种方式被处理：用巴贝奇（Babbage）和图灵（Turing）发明的那类计算来处理。
 
-Now, there are only two possible limitations to that. One is the lack of computer memory (i.e. of information-storage capacity) and the other is the lack of speed (or the lack of time).
+计算机是通用的，意思是：只要给出正确程序，它们就能执行任何信息转化，包括创造解释和其他知识。
 
-We've been improving our memory capacity and our speed of computation for thousands of years with the invention of things like writing, writing implements, even language itself, which enables more than one person to work on the same problem and coordinate their understanding of it. Nowadays, we use computers, and in the future we can use computer implants and so on.
+这里可能存在的限制只有两种。一种是缺少计算机内存，也就是信息存储能力；另一种是缺少速度，或者说缺少时间。
 
-See also:
-- [[Universal System]]
+几千年来，我们一直在通过发明文字、书写工具，甚至语言本身来提高记忆容量和计算速度；语言让不止一个人能够共同处理同一个问题，并协调他们对问题的理解。如今，我们使用计算机；未来，我们还可以使用计算机植入物，等等。
 
-
+另见：
+- [[Universal System|通用系统（Universal System）]]

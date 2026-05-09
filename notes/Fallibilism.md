@@ -1,3 +1,3 @@
-# Fallibilism      
+# 可错论（Fallibilism）
 
-The recognition that there are no authoritative sources of knowledge, nor any reliable means of justifying knowledge as true or probable.
+承认不存在权威的知识来源，也不存在任何可靠方法，可以把知识证明为真实或可能真实。

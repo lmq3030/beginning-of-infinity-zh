@@ -1,10 +1,9 @@
-# Problems
+# 问题（Problems）
 
-Problems are inevitable because the search for [[Good Explanation]]s will create new problems and our [[Knowledge]] will always be incomplete.
+问题不可避免，因为寻找[[Good Explanation|好解释（Good Explanation）]]会创造新问题，而我们的[[Knowledge|知识（Knowledge）]]永远不会完整。
 
-Some problems are hard, but it is a mistake to confuse hard problems with problems that can't be solved.
+有些问题很难，但把难题和无法解决的问题混为一谈，是一个错误。
 
-All problems are soluble given the right knowledge, limited only by the laws of physics. 
+只要有正确知识，所有问题都是可解的；唯一限制是物理法则。
 
-Edison famously said that genius is 1% inspiration and 99% perspiration. But once a problem has been solved and a [[Technology]] created, the perspiration aspect is automated.
-
+爱迪生有句名言：天才是 1% 的灵感加 99% 的汗水。但一旦某个问题被解决，并创造出一种[[Technology|技术（Technology）]]，汗水那一部分就被自动化了。

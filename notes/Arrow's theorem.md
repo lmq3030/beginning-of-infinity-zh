@@ -1,11 +1,12 @@
-# Arrow's theorem
-An impossibility theorem proving that no rank-order electoral system can be designed that always satisfies these three "fairness" criteria:
+# 阿罗定理（Arrow's theorem）
 
-- If every voter prefers alternative X over alternative Y, then the group prefers X over Y.
-- If every voter's preference between X and Y remains unchanged, then the group's preference between X and Y will also remain unchanged (even if voters' preferences between other pairs like X and Z, Y and Z, or Z and W change).
-- There is no "dictator": no single voter possesses the power to always determine the group's preference.
+这是一个不可能性定理（impossibility theorem）。它证明：不存在一种排序投票制度，能够在所有情况下同时满足以下三个“公平”标准：
 
-Essentially proving that no systems of government are mathematically fair.
+- 如果每个选民都偏好选项 X 胜过选项 Y，那么群体也应偏好 X 胜过 Y。
+- 如果每个选民在 X 与 Y 之间的偏好没有变化，那么群体在 X 与 Y 之间的偏好也不应变化，即使选民对其他选项对，比如 X 与 Z、Y 与 Z、Z 与 W 的偏好发生了变化。
+- 不存在“独裁者”：没有任何单个选民能总是决定群体的偏好。
 
-See also:
+它本质上证明了：不存在数学上完全公平的政府制度。
+
+另见：
 - [Wikipedia](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)

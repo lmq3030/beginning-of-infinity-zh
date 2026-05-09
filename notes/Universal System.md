@@ -1,21 +1,22 @@
-# Universal System
-A system that is capable of representing all states.
+# 通用系统（Universal System）
 
-The first universal system we know of was DNA. We still don't understand its universal nature, but with it you can encode a chicken or a T-Rex.
+一种能够表示所有状态的系统。
 
-Both brains and computers are universal systems. 
+我们知道的第一个通用系统是 DNA。我们仍然不理解它的通用本质，但通过 DNA，你可以编码一只鸡，也可以编码一只霸王龙。
 
-Examples of none-universal systems:
--   Hieroglyphics 
--   Tally systems (tallying is universal only if digital)
--   Roman numerals 
-  
-Examples of universal systems:
--   Indian numeric system (0-9)
--   Alphabet 
--   DNA (ATGC)
--   Computers (binary)
+大脑和计算机都是通用系统。
 
-See also:
+非通用系统的例子：
+- 象形文字
+- 刻痕计数系统（只有数字化后，刻痕才是通用的）
+- 罗马数字
 
-- [[Jump to Universality]]
+通用系统的例子：
+- 印度数字系统（0-9）
+- 字母表
+- DNA（ATGC）
+- 计算机（二进制）
+
+另见：
+
+- [[Jump to Universality|向普遍性的跃迁（Jump to Universality）]]

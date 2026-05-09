@@ -1,3 +1,3 @@
-# Infinity
+# 无穷（Infinity）
 
-We can understand infinity through the infinite reach of some explanations. It makes sense, both in mathematics and in physics. But it has counter-intuitive properties. One of them is that, if unlimited progress really is going to happen, not only are we now at almost the very beginning of it, we always shall be.
+我们可以通过某些解释的无限触达范围（reach）来理解无穷。无论在数学中还是在物理学中，这都有意义。但无穷也有反直觉的性质。其中之一是：如果无限进步真的会发生，那么我们不仅现在几乎位于它的开端，而且我们永远都会如此。

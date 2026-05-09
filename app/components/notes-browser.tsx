@@ -1,4 +1,4 @@
-import React, {useEffect, useMemo, useRef, useState} from 'react'
+import React, {useCallback, useEffect, useRef, useState} from 'react'
 import {Note} from 'app/interfaces/note'
 import {
   NoteBrowserItemWidthWithoutCollapsed,
@@ -14,8 +14,9 @@ export const NotesBrowser: React.FC<Props> = ({initialNotes = []}) => {
   const [scrollLeft, setScrollLeft] = useState(0)
 
   const [viewNotes, setViewNotes] = useState<Note[]>(initialNotes)
+  const canGoBack = viewNotes.length > 1
 
-  const setStackedQuery = (notePaths: string[]) => {
+  const setStackedQuery = useCallback((notePaths: string[]) => {
     const [firstPath, ...stackedPaths] = notePaths
 
     const newUrl = new URL(location.origin + `/${firstPath}`)
@@ -25,7 +26,18 @@ export const NotesBrowser: React.FC<Props> = ({initialNotes = []}) => {
     }
 
     history.replaceState({}, '', newUrl)
-  }
+  }, [])
+
+  const goBack = useCallback(() => {
+    setViewNotes((notes) => {
+      if (notes.length <= 1) return notes
+
+      const previousNotes = notes.slice(0, -1)
+      setStackedQuery(previousNotes.map((note) => note.path))
+
+      return previousNotes
+    })
+  }, [setStackedQuery])
 
   const onClickBacklink = async (
     event: React.MouseEvent,
@@ -55,33 +67,75 @@ export const NotesBrowser: React.FC<Props> = ({initialNotes = []}) => {
   }
 
   const scrollToIndex = (index: number) => {
-    ref.current?.children[index]?.scrollIntoView?.({
-      block: 'start',
-      inline: 'start',
+    ref.current?.scrollTo({
+      left: index * NoteBrowserItemWidthWithoutCollapsed,
       behavior: 'smooth',
     })
   }
+
+  const focusNoteAtIndex = useCallback((index: number) => {
+    scrollToIndex(index)
+  }, [])
 
   useEffect(() => {
     scrollToIndex(viewNotes.length - 1)
   }, [viewNotes])
 
+  useEffect(() => {
+    const onKeyDown = (event: KeyboardEvent) => {
+      const target = event.target as HTMLElement | null
+      const targetTagName = target?.tagName.toLowerCase()
+      const targetAcceptsText =
+        target?.isContentEditable ||
+        targetTagName === 'input' ||
+        targetTagName === 'select' ||
+        targetTagName === 'textarea'
+
+      if (event.key !== 'ArrowLeft' || targetAcceptsText) return
+      if (!canGoBack) return
+
+      event.preventDefault()
+      goBack()
+    }
+
+    window.addEventListener('keydown', onKeyDown)
+
+    return () => window.removeEventListener('keydown', onKeyDown)
+  }, [canGoBack, goBack])
+
   return (
-    <div
-      ref={ref}
-      className="browser flex-1 flex overflow-x-auto overflow-y-hidden"
-      onScroll={onScroll}
-    >
-      {viewNotes.map((note, index) => (
-        <NotesBrowserItem
-          key={index + note.title}
-          index={index}
-          note={note}
-          collapsed={scrollLeft > (index + 1) * NoteBrowserItemWidthWithoutCollapsed - 60}
-          overlay={scrollLeft > (index - 1) * NoteBrowserItemWidthWithoutCollapsed}
-          onClickBacklink={(event, path) => onClickBacklink(event, path, index)}
-        />
-      ))}
+    <div className="relative flex-1 overflow-hidden">
+      {canGoBack && (
+        <button
+          type="button"
+          aria-label="返回上一条笔记"
+          title="返回上一条笔记（←）"
+          className="absolute left-4 top-4 z-20 flex h-9 w-9 items-center justify-center rounded-full border border-gray-200 bg-white text-xl leading-none text-gray-700 shadow-md transition hover:bg-gray-50 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-400"
+          onClick={goBack}
+        >
+          ←
+        </button>
+      )}
+
+      <div
+        ref={ref}
+        className="browser h-full flex overflow-x-auto overflow-y-hidden"
+        onScroll={onScroll}
+      >
+        {viewNotes.map((note, index) => (
+          <NotesBrowserItem
+            key={index + note.title}
+            index={index}
+            note={note}
+            collapsed={
+              scrollLeft > (index + 1) * NoteBrowserItemWidthWithoutCollapsed - 60
+            }
+            overlay={scrollLeft > (index - 1) * NoteBrowserItemWidthWithoutCollapsed}
+            onClickBacklink={(event, path) => onClickBacklink(event, path, index)}
+            onClickNote={() => focusNoteAtIndex(index)}
+          />
+        ))}
+      </div>
     </div>
   )
 }

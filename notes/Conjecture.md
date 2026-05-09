@@ -1,8 +1,8 @@
-# Conjecture
+# 猜想（Conjecture）
 
-The act of using [[Creativity]] to come up with new [[Explanation]]s. 
+运用[[Creativity|创造力（Creativity）]]提出新的[[Explanation|解释（Explanation）]]。
 
-See also:
+另见：
 
-- [[Criticism]]
-- [[Enlightenment]]
+- [[Criticism|批判（Criticism）]]
+- [[Enlightenment|启蒙运动（Enlightenment）]]

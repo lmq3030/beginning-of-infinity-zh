@@ -1,16 +1,15 @@
-# Spaceship Earth      
+# 地球飞船（Spaceship Earth）
 
-The misconception that the earth is a unique biosphere that humans are limited to, and that nature readily presents us with all our needs (food, shelter, water, etc). 
+一种误解：地球是一个独特的生物圈，人类被限制在其中，而自然会现成地提供我们的一切需要，比如食物、住所、水，等等。
 
-In reality earth never had our priorities in mind. Since the earliest times we had to create technology to survive. Even today, without such technology, we would only survive a few hours in say Oxford's winter.
+实际上，地球从来没有把我们的优先事项放在心上。自最早时期起，我们就必须创造技术来生存。即使在今天，没有这样的技术，我们在牛津的冬天里也只能活几个小时。
 
-So you are already an astronaut. Your condition is as precarious as that of the people in a well-established colony on Mars who can take certain technological advances for granted. And there’s no reason to think that such a future beyond Earth does't await us, barring some catastrophe, whether of our own making or not.
+所以，你已经是一名宇航员。你的处境和一个成熟火星殖民地中的人一样脆弱，只不过你把某些技术进步视为理所当然。而且没有理由认为，除非发生某种灾难，无论它是否由我们造成，地球之外的未来不会等待着我们。
 
-[[Technology]], once created, is automatic. We don't have to think about it. Take your shirt for instance. Once fabricated it warms you ever-day; it's not something you have to configure every morning or devote any mental energy towards.
+[[Technology|技术（Technology）]]一旦被创造出来，就是自动化的。我们不必再思考它。以你的衬衫为例。它一旦被制造出来，就每天为你保暖；它不是你每天早晨都要配置、也不需要投入脑力的东西。
 
-The reality is, with the right knowledge, we could survive in almost any part of the universe. Not only survive, but thrive, creating a beautiful environment perfectly tailored to our requirements.
+现实是，只要有正确知识，我们几乎可以在宇宙任何地方生存。不仅能生存，还能繁荣，并创造一个完全符合我们需求的美丽环境。
 
-Even in completely empty areas of space we could feasibly build a space-station by hoovering up hydrogen atoms (which sprinkle the universe), transmuting them into the materials we'd need.
+即使在完全空旷的太空区域，我们也可以设想建造一座空间站：收集散布于宇宙中的氢原子，并把它们嬗变成我们需要的材料。
 
-Such space-stations could then perform experiments based on the physics of the area and the 'evidence' streaming in from starlight, creating more [[Knowledge]] and expanding [[People]]'s impact on the universe.
-
+这样的空间站随后可以依据当地物理条件，以及从星光中流入的“证据”进行实验，创造更多[[Knowledge|知识（Knowledge）]]，并扩展[[People|人（People）]]对宇宙的影响。

@@ -27,11 +27,22 @@ const readNote = async (name: string): Promise<Note> => {
 
   return {
     path: name,
-    title: attributes?.title || name,
+    title: attributes?.title || markdownToTitle(body) || name,
     snippet: attributes?.snippet || markdownToSnippet(body),
     markdown: body,
     linkedFromNotes: [],
   }
+}
+
+const markdownToTitle = (markdown: string): string | undefined => {
+  const heading = markdown.match(/^#{1,6}\s+(.+)$/m)?.[1]?.trim()
+
+  if (!heading) return undefined
+
+  return heading.replace(
+    /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g,
+    (_match, path, label) => label || path,
+  )
 }
 
 const markdownToSnippet = (markdown: string): string => {
@@ -59,13 +70,18 @@ export const getHydratedNote = async (name: string): Promise<Note | null> => {
 
   const linkedFromNotes = allNotes
     .filter((n) => n != note && n.path != NOTE_INDEX_NAME)
-    .filter((n) => n.markdown.includes(`[[${name}]]`))
+    .filter((n) => hasBacklink(n.markdown, name))
     .map(noteToNotePreview)
 
   return {
     ...note,
     linkedFromNotes,
   }
+}
+
+const hasBacklink = (markdown: string, name: string): boolean => {
+  const escapedName = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  return new RegExp(`\\[\\[${escapedName}(?:\\||\\]\\])`).test(markdown)
 }
 
 export const getNote = async (name: string): Promise<Note | null> => {

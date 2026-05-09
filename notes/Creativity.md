@@ -1,3 +1,3 @@
-# Creativity      
+# 创造力（Creativity）
 
-The capacity to create new explanations.
+创造新解释（explanations）的能力。

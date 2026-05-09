@@ -1,7 +1,7 @@
-# Anti-rational Meme
+# 反理性模因（Anti-rational Meme）
 
-An idea that relies on disabling the recipients’ critical faculties to cause itself to be replicated.
+一种思想：它依靠关闭接受者的批判能力，来促使自己被复制。
 
-Often these ideas tap into base human emotions (fear and anger) to seduce people into believing and replicating them.
+这类思想常常利用人类的基本情绪，尤其是恐惧和愤怒，诱使人们相信它、传播它。
 
-For example, using the threat of terrorism to justify passing laws that censor free speech. 
+例如，借恐怖主义威胁之名，通过审查言论自由的法律。

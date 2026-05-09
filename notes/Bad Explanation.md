@@ -1,20 +1,19 @@
-# Bad Explanation
+# 坏解释（Bad Explanation）
 
-A bad explanation is unspecific. You can change any or all of the details without destroying it. 
+坏解释（bad explanation）是不具体的。你可以改变其中任意细节，甚至改变全部细节，却仍然不破坏它。
 
-Examples of bad explanations:
+坏解释的例子：
 
-- Thunder is caused by Thor's anger
-- Day and nights were created by God dividing the light on the first day of creation
-- Summer is caused by [Persephone](https://en.wikipedia.org/wiki/Persephone)'s annual re-uniting with her mother Demeter.
+- 雷声由索尔（Thor）的愤怒造成。
+- 白天和黑夜来自上帝在创世第一天把光分开。
+- 夏天来自[珀耳塞福涅（Persephone）](https://en.wikipedia.org/wiki/Persephone)每年与母亲德墨忒耳（Demeter）团聚。
 
-In the above examples you could change any of the variables and the explantation would make sense.
+在这些例子里，你可以替换任意变量，解释看起来仍然“说得通”。
 
-- Thunder is caused by Zeus' anger
-- Day and nights were created by God dividing the light on the last day of creation
-- Hades is distracted when Persephone leaves, and forgets to cool the planet.
+- 雷声由宙斯（Zeus）的愤怒造成。
+- 白天和黑夜来自上帝在创世最后一天把光分开。
+- 珀耳塞福涅离开时，哈得斯（Hades）分心了，忘了给地球降温。
 
-
- See also:
- - [[Hard to vary]]
- - [[Good Explanation]]
+另见：
+- [[Hard to vary|难以改变（Hard to vary）]]
+- [[Good Explanation|好解释（Good Explanation）]]

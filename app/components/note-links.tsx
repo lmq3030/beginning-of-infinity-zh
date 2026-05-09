@@ -12,13 +12,14 @@ export const NoteLinks: React.FC<Props> = ({note, onClickBacklink}) => {
 
   return (
     <div className="bg-gray-100 rounded-md px-6 py-5">
-      <h3 className="text-gray-600 text-lg font-medium">Links to this note</h3>
+      <h3 className="text-gray-600 text-lg font-medium">链接到这条笔记</h3>
 
       <div className="grid md:grid-cols-2 grid-cols-1 gap-5 mt-3">
         {note.linkedFromNotes.map((note) => (
           <div
             key={note.path}
             onClick={(event) => onClickBacklink?.(event, note.path)}
+            data-note-action="open-linked-note"
             className="text-gray-600 cursor-pointer block space-y-2"
           >
             <h3 className="text-sm font-medium">{note.title}</h3>

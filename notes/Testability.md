@@ -1,4 +1,3 @@
-# Testability
+# 可检验性（Testability）
 
-Testability is now generally accepted as the defining characteristic of the scientific method. Popper called it the ‘criterion of demarcation’ between science and non-science. Nevertheless, testability cannot have been the decisive factor in the scientific revolution either. Contrary to what is often said, testable predictions had always been quite common. Every traditional rule of thumb for making a flint blade or a camp fire is testable. Every would-be prophet who claims that the sun will go out next Tuesday has a testable theory. So does every gambler who has a hunch that ‘this is my lucky night – I can feel it’. So what is the vital, progress-enabling ingredient that is present in science, but absent from the testable theories of the prophet and the gambler? The reason that testability is not enough is that prediction is not, and cannot be, the purpose of science.
-
+可检验性现在通常被视为科学方法的定义特征。波普尔称它为区分科学与非科学的“划界标准”（criterion of demarcation）。然而，可检验性也不可能是科学革命中的决定性因素。与常见说法相反，可检验的预测一直都很常见。每一条制作燧石刀片或生火的传统经验法则都是可检验的。每一个自称太阳会在下周二熄灭的准先知，都有一个可检验理论。每一个凭直觉觉得“今晚我走运，我能感觉到”的赌徒也是如此。那么，科学中存在、而先知和赌徒的可检验理论中缺失的那个关键的、能促成进步的成分是什么？可检验性不够的原因在于：预测不是，也不可能是科学的目的。

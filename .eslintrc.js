@@ -43,6 +43,9 @@ module.exports = {
   },
   'ignorePatterns': ['public/*.js'],
   'settings': {
+    'react': {
+      'version': 'detect',
+    },
     'import/resolver': {
       'alias': [
         ['app', './app'],

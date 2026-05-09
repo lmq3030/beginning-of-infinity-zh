@@ -1,5 +1,5 @@
-# Constructor
+# 构造器（Constructor）
 
-A device capable of causing other objects to undergo transformations without undergoing any net change itself.
+一种装置：它能够使其他对象发生转化，而自身不发生净变化。
 
-Deutsch, David. The Beginning of Infinity (p. 76). Penguin Publishing Group. Kindle Edition. 
+Deutsch, David. The Beginning of Infinity (p. 76). Penguin Publishing Group. Kindle Edition.

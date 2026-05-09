@@ -3,6 +3,7 @@ import {NotePreview} from './note-preview'
 
 interface Props {
   path: string
+  label?: string
   onClick?: (event: MouseEvent) => void
   onMouseEnter?: (event: MouseEvent) => void
   onMouseLeave?: (event: MouseEvent) => void
@@ -10,6 +11,7 @@ interface Props {
 
 export const NoteBacklink: React.FC<Props> = ({
   path,
+  label,
   onClick,
   onMouseEnter,
   onMouseLeave,
@@ -23,7 +25,7 @@ export const NoteBacklink: React.FC<Props> = ({
         onMouseEnter={onMouseEnter}
         onMouseLeave={onMouseLeave}
       >
-        {path}
+        {label || path}
       </a>
     </NotePreview>
   )

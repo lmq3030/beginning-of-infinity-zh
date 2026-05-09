@@ -1,9 +1,9 @@
-# David Deutsch
+# 戴维·多伊奇（David Deutsch）
 
-The author of the [[Beginning of Infinity]]. 
+[[Beginning of Infinity|《无穷的开始》（The Beginning of Infinity）]]的作者。
 
-David is a British physicist at the University of Oxford. He is a Visiting Professor in the Department of Atomic and Laser Physics at the Centre for Quantum Computation (CQC) in the Clarendon Laboratory of the University of Oxford. He pioneered the field of quantum computation by formulating a description for a quantum Turing machine, as well as specifying an algorithm designed to run on a quantum computer. He has also proposed the use of entangled states and Bell's theorem for quantum key distribution and is a proponent of the many-worlds interpretation of quantum mechanics.
+David 是英国物理学家，任职于牛津大学。他是牛津大学克拉伦登实验室（Clarendon Laboratory）量子计算中心（Centre for Quantum Computation, CQC）原子与激光物理系的访问教授。他通过提出量子图灵机（quantum Turing machine）的描述，并给出可在量子计算机上运行的算法，开创了量子计算领域。他还提出过利用纠缠态和贝尔定理（Bell's theorem）进行量子密钥分发的方案，并且是量子力学多世界诠释（many-worlds interpretation）的支持者。
 
-See more:
+更多：
 
 - [Wikipedia profile](https://en.wikipedia.org/wiki/David_Deutsch)

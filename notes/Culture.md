@@ -1,3 +1,3 @@
-# Culture
+# 文化（Culture）
 
-A collection of [[Memes]].
+一组[[Memes|模因（Memes）]]。

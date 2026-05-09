@@ -38,10 +38,16 @@ export const NotePreviewPopover: React.FC<Props> = ({
     ],
   })
 
-  const fetchNote = async () => setNote(await getNote(path))
-
   useEffect(() => {
-    fetchNote()
+    let mounted = true
+
+    getNote(path).then((note) => {
+      if (mounted) setNote(note)
+    })
+
+    return () => {
+      mounted = false
+    }
   }, [path])
 
   return (

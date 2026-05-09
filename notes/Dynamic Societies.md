@@ -1,12 +1,12 @@
-# Dynamic Societies 
+# 动态社会（Dynamic Societies）
 
-A society that is dominated by rational memes.
+由理性模因（rational memes）占主导的社会。
 
-Dynamic societies celebrate the ideals of the [[Enlightenment]] such as tolerance, free speech, and a willingness to change.
+动态社会珍视[[Enlightenment|启蒙运动（Enlightenment）]]的理想，比如宽容、言论自由，以及愿意改变。
 
-Dynamic societies tend to change and improve quite rapidly.
+动态社会往往能迅速改变并改善自身。
 
-See also: 
-- [[Static Societies]]
-- [[Anti-rational Meme]]
-- [[Rational Meme]]
+另见：
+- [[Static Societies|静态社会（Static Societies）]]
+- [[Anti-rational Meme|反理性模因（Anti-rational Meme）]]
+- [[Rational Meme|理性模因（Rational Meme）]]

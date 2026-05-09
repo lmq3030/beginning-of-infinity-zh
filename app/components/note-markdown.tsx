@@ -67,6 +67,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       return (
         <NoteBacklink
           path={token.path}
+          label={token.label}
           onClick={(event) => options.onClickBacklink?.(event, token.path)}
         />
       )

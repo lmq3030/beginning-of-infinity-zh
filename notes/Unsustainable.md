@@ -1,16 +1,16 @@
-# Unsustainable
+# 不可持续（Unsustainable）
 
-A practice or lifestyle that cannot able to be maintained at the current rate or level. Often used in an environmental context: e.g. human population growth is not sustainable.
+一种无法以当前速率或水平维持下去的做法或生活方式。这个词常用于环境语境中，例如：人类人口增长是不可持续的。
 
-In practice, nothing is sustainable. Problems are inevitable and eventually one big enough will come along to prevent you from sustaining an existing course of action.
+实际上，没有任何东西是可持续的。问题不可避免，最终会有一个足够大的问题出现，阻止你维持既有行动路线。
 
-For example, it doesn't matter how 'green' the dinosaurs were, that they didn't burn fossil fuels, or massively grow their population. Eventually an astroid wiped them out because they didn't create sufficient technology to prevent it happening.
+例如，恐龙有多“绿色”并不重要；它们没有燃烧化石燃料，也没有大规模增长人口，但最终一颗小行星还是消灭了它们，因为它们没有创造出足够技术来阻止这件事发生。
 
-[[Static Societies]], such as the inhabitants of Easter Island, eventually fail not because they use up all their resources, but because they fail to create the [[Knowledge]] to solve their problems and save themselves.
+[[Static Societies|静态社会（Static Societies）]]，比如复活节岛居民，最终失败并不是因为它们耗尽了所有资源，而是因为它们未能创造出解决问题、拯救自己的[[Knowledge|知识（Knowledge）]]。
 
-In other words, the only way to keep riding this wave of unsustainability is by creating more [[Knowledge]] to solve our problems.
+换句话说，要继续骑在这股不可持续性的浪潮上，唯一方式就是创造更多[[Knowledge|知识（Knowledge）]]来解决我们的问题。
 
-See also:
+另见：
 
-- [[Sustainability]]
-- [[Wealth]]
+- [[Sustainability|可持续性（Sustainability）]]
+- [[Wealth|财富（Wealth）]]

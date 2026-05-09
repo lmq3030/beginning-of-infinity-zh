@@ -1,16 +1,17 @@
-# Empiricism
-The theory that all knowledge is derived from sense-experience (i.e. from experimentation).
+# 经验主义（Empiricism）
 
-When empiricism was first introduced it played a positive role for [[Progress]] by providing a defence against traditional authorities and dogma. All claims of the supernatural now had to be backed up by hard evidence, which meant that 'provable' science superseded religious mysticism and superstition.
+一种理论：所有知识都来自感觉经验，也就是来自实验。
 
-This worked for a while because none of the scientists took it literally. Because, if they had, they wouldn't have made much progress. 
+经验主义刚出现时，对[[Progress|进步（Progress）]]起过积极作用，因为它提供了一种抵抗传统权威和教条的武器。所有超自然主张从此都必须有硬证据支持，这意味着“可证明的”科学取代了宗教神秘主义和迷信。
 
-The reason that testability is not sufficient is that prediction is not, and cannot be, the purpose of science. You can test that a rabbit comes out of a hat during a conjuring trick, and predict that it'll happen every time the trick is performed, but that gets you no closer to understanding how the trick works.
+这在一段时间里有效，因为科学家没有人真的按字面意思接受它。如果他们那样做，就不会取得多少进展。
 
-In other words strictly applied empiricism is a threat to [[Progress]] and indeed has held many fields back, such as quantum physics.
+可检验性之所以不够，是因为预测不是，也不可能是科学的目的。你可以检验魔术师在变戏法时会从帽子里拿出兔子，也可以预测每次表演都会发生这件事，但这并不会让你更接近理解这个戏法究竟如何运作。
 
-The real source of our theories is [[Conjecture]], and the real source of our [[Knowledge]] is conjecture alternating with [[Criticism]]. We create theories by rearranging, combining, altering and adding to existing ideas with the intention of improving upon them. The role of experiment and observation is to choose between existing theories, not to be the source of new ones.
+换句话说，严格执行的经验主义会威胁[[Progress|进步（Progress）]]，事实上也拖累了许多领域，比如量子物理。
 
-See also:
+我们理论的真正来源是[[Conjecture|猜想（Conjecture）]]；我们[[Knowledge|知识（Knowledge）]]的真正来源，是猜想与[[Criticism|批判（Criticism）]]交替进行。我们通过重新排列、组合、改变和添加既有思想来创造理论，目的在于改进它们。实验和观察的作用，是在既有理论之间作出选择，而不是成为新理论的来源。
 
-- [[Inductivism]]
+另见：
+
+- [[Inductivism|归纳主义（Inductivism）]]

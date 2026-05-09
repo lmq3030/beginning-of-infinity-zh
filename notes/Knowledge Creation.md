@@ -1,9 +1,9 @@
-## Knowledge creation
+## 知识创造（Knowledge Creation）
 
-There are only two known sources of knowledge creation: Biological [[Evolution]] and the thoughts of [[People]]. They have some key differences. 
+已知的知识创造来源只有两个：生物[[Evolution|进化（Evolution）]]，以及[[People|人（People）]]的思想。二者有一些关键差异。
 
-In the case of human knowledge, the variation is by [[Conjecture]], and the selection is by [[Criticism]] and experiment. In the biosphere, the variation consists of mutations (random changes) in genes, and natural selection favors the variants that most improve the ability of their organisms to reproduce, thus causing those variant genes to spread through the population.
+在人类知识中，变异来自[[Conjecture|猜想（Conjecture）]]，选择来自[[Criticism|批判（Criticism）]]和实验。在生物圈中，变异由基因突变，也就是随机变化构成；自然选择偏爱那些最能提高其有机体繁殖能力的变体，从而使携带这些变体的基因在种群中扩散。
 
-Both sources are abstract replicators which means they're forms of information that are embodied in a physical system and tend to remain so (in DNA strands, books, hard-disks etc).
+这两个来源都是抽象复制子（abstract replicators），也就是说，它们是体现于物理系统之中，并倾向于继续保持这种体现的信息形式，比如 DNA 链、书籍、硬盘等。
 
-But the two sources have some key differences. Evolution is bounded and parochial. It tends to make slow iterative changes. People's creativity is unbounded and has [[Reach]]. 
+但这两个来源有关键区别。进化是有边界的，也是狭隘的。它倾向于缓慢的迭代变化。人的创造力则没有边界，并且具有[[Reach|触达范围（Reach）]]。

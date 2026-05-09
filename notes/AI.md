@@ -1,5 +1,5 @@
-# Artificial Intelligence      
+# 人工智能（AI）
 
-A computer-program with creativity, a type of [[Person]]
+一种具有创造力的计算机程序，是一种[[Person|人（Person）]]。
 
-The field of artificial (general) intelligence has made no progress because there is an unsolved philosophical problem at its heart: we do not understand how creativity works. Once that has been solved, programming it will not be difficult. Even artificial evolution may not have been achieved yet, despite appearances. There the problem is that we do not understand the nature of the universality of the DNA replication system.
+人工（通用）智能（artificial general intelligence）这个领域之所以还没有取得真正进展，是因为它的核心有一个尚未解决的哲学问题：我们还不理解创造力是如何运作的。一旦这个问题得到解决，把它编写成程序并不会困难。甚至所谓的人工进化（artificial evolution），尽管表面上看似已经实现，也可能尚未真正实现。那里的问题在于：我们还不理解 DNA 复制系统的普遍性（universality）本质。

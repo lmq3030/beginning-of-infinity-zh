@@ -1,5 +1,5 @@
-# Hard to vary
+# 难以改变（Hard to vary）
 
-A hard-to-vary explanation provides specific details that fit together so tightly that it is impossible to change any detail without affecting the whole theory.
+一个难以改变的解释（hard-to-vary explanation）会给出彼此紧密咬合的具体细节，以至于改变任何一个细节都会影响整个理论。
 
-A [[Good Explanation]] is hard-to-vary whereas a with a [[Bad Explanation]] you could vary the details without affecting the explanation.
+[[Good Explanation|好解释（Good Explanation）]]是难以改变的；而[[Bad Explanation|坏解释（Bad Explanation）]]则可以改变细节而不影响解释本身。

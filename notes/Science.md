@@ -1,9 +1,9 @@
-# Science
+# 科学（Science）
 
-Science is the practice of finding good [[Explanation]]s. 
+科学是寻找好[[Explanation|解释（Explanation）]]的实践。
 
-Science is a way of dealing with theories regardless of whether or not one believes them. They are judged according to whether or not they’re good explanations. And if a particular explanation ends up being the only explanation that survives the intense criticism that reason and science can apply, then it’s not so much adopted at that point as just not discarded. It has survived for the moment.
+科学是一种处理理论的方式，而不取决于人们是否相信这些理论。理论根据它们是否是好解释来评判。如果某个特定解释最终成为唯一经受住理性和科学强烈批判的解释，那么在那一刻，它与其说是被采纳，不如说只是尚未被抛弃。它暂时存活了下来。
 
-There is a common misconception that science reduces to what is testable. Although much of science consists of testable theories, testability is not a requirement. Rather we should look at if a theory is a [[Good Explanation]].
+一个常见误解是：科学可以还原为可检验的东西。尽管科学中有很多可检验理论，可检验性并不是必要条件。我们更应该看一个理论是否是[[Good Explanation|好解释（Good Explanation）]]。
 
-The is also another common misconception that there exists a bright line between science and every other discipline where we purport to describe reality (e.g. philosophy). But ultimately they're all disciplines looking to find [[Good Explanation]]s.
+还有另一个常见误解：科学和其他任何声称描述现实的学科，比如哲学之间，存在一条清晰界线。但最终，它们都是在寻找[[Good Explanation|好解释（Good Explanation）]]的学科。

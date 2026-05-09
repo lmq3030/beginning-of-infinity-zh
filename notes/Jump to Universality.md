@@ -1,25 +1,26 @@
-# Jump to Universality
-The tendency of gradually improving systems to undergo a sudden large increase in functionality, becoming universal in some domain.
- 
-The first [[Universal System]] we know of was DNA. All organisms on earth are encoded with the same alphabet of DNA bases, just using different combinations. 
+# 向普遍性的跃迁（Jump to Universality）
 
-Universal systems have been invented a few times throughout history but always by accident. Nobody realized their significance until decades, sometimes centuries later. Only since the [[Enlightenment]] has the significance of universal systems been recognised and sought after.
+逐步改进的系统，往往会突然获得功能上的巨大增长，在某个领域变成通用系统（universal system）。
 
-Take Egyptian hieroglyphics for instance. Every word is represented by its own hieroglyph. To invent new words you need to invent new hieroglyphs (and then teach everyone what they mean). It's a non-universal system.
+我们知道的第一个[[Universal System|通用系统（Universal System）]]是 DNA。地球上的所有生物都用同一套 DNA 碱基字母表编码，只是组合不同。
 
-As the rules for writing systems were improved we moved from specific word-level abstractions to letter-level abstractions. Latin-based alphabets were capable of representing every word in the language. Thus, a jump to universality. 
+通用系统在历史上被发明过几次，但几乎总是偶然发生。没有人立刻意识到它们的重要性；这种认识往往要等几十年，甚至几个世纪。只有自[[Enlightenment|启蒙运动（Enlightenment）]]以来，通用系统的重要性才被理解，并被有意识地追求。
 
-Roman numerals were an improvement upon tally systems for performing basic arithmetic, but they weren't universal. The number one thousand was represented by the symbol ↀ, and that was their highest number. To calculate anything higher than that means appending ↀ's to each other, and then you're back to tallying. The only way to progress arithmetic beyond tallying is with rules of universal reach. 
+以埃及象形文字为例。每个词都由自己的象形符号表示。要发明新词，就必须发明新的象形符号，并教会所有人它的意思。这是一个非通用系统。
 
-As with alphabets, a small set of rules is enough.
+随着书写系统规则的改进，我们从具体的词级抽象，转向字母级抽象。基于拉丁字母的字母表能够表示语言中的每个词。于是，发生了向普遍性的跃迁。
 
-The numeric system we used today has ten symbols, the digits 0 to 9, and its universality is due to a rule that the value of a digit depends on its position in the number. For instance, the digit 2 means two when written by itself, but means two hundred in the numeral 204. Such ‘positional’ systems require ‘placeholders’, such as the digit 0 in 204, whose only function is to place the 2 into the position where it means two hundred.
+罗马数字相对于刻痕计数系统来说，是执行基本算术的一种改进，但它并不是通用的。一千这个数由符号 ↀ 表示，而那就是它们最高的数。要计算比这更高的数，就意味着把多个 ↀ 接在一起，于是你又回到了刻痕计数。要让算术超越刻痕，唯一方式是采用具有普遍触达范围的规则。
 
-The power in universal systems comes from their [[Reach]]. They can do a lot more than they were intended to do. A clear example of this is the computer in your washing machine. Given enough memory and time there is nothing preventing it doing astrophysics calculations. 
+和字母表一样，一小组规则就足够了。
 
-Our brains are universal systems. We are capable of explaining anything.
+我们今天使用的数字系统有十个符号，也就是 0 到 9。它的普遍性来自一条规则：一个数字的值取决于它在数中的位置。例如，数字 2 单独写时表示二，但在 204 中表示二百。这类“位置制”（positional）系统需要“占位符”，比如 204 中的数字 0；它唯一的功能，就是把 2 放在表示二百的位置上。
 
-See also:
-- [[Universal System]]
-- [[Universal Explainers]]
-- [[Universal Computation]]
+通用系统的力量来自它们的[[Reach|触达范围（Reach）]]。它们能做的事远多于最初设计它们时的目标。一个清楚的例子是洗衣机里的计算机。只要有足够内存和时间，就没有什么能阻止它做天体物理计算。
+
+我们的大脑也是通用系统。我们有能力解释任何东西。
+
+另见：
+- [[Universal System|通用系统（Universal System）]]
+- [[Universal Explainers|通用解释者（Universal Explainers）]]
+- [[Universal Computation|通用计算（Universal Computation）]]

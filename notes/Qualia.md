@@ -1,3 +1,3 @@
-# Qualia
+# 感质（Qualia）
 
-The subjective aspect of a sensation (e.g. Consciousness).
+感觉的主观面向，例如意识。

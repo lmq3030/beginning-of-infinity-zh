@@ -8,21 +8,24 @@ const BacklinkTokenizerExtension: marked.TokenizerExtension = {
   start: (src: string) => src.match(/\[\[/)?.index || -1,
 
   tokenizer: (src: string) => {
-    const rule = /^\[\[([^\]]+)\]\]/
+    const rule = /^\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/
     const match = rule.exec(src)
 
     if (match) {
       const text = match[0]
+      const path = match[1].trim()
+      const label = (match[2] || path).trim()
 
       return {
         type: 'backlink',
         raw: text,
-        path: match[1],
+        path,
+        label,
         tokens: [
           {
             type: 'text',
             raw: text,
-            text,
+            text: label,
           },
         ],
       }
@@ -34,7 +37,7 @@ const BacklinkRendererExtension: marked.RendererExtension = {
   name: 'backlink',
 
   renderer: (token: marked.Tokens.Generic) => {
-    return `<a href="${token.path}">${token.path}</a>`
+    return `<a href="${token.path}">${token.label || token.path}</a>`
   },
 }
 

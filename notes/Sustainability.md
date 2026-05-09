@@ -1,8 +1,7 @@
-# Sustainability
+# 可持续性（Sustainability）
 
-The term has two almost opposite, but often confused, meanings: to provide someone with what they need, and to prevent things from changing.
+这个词有两个几乎相反、却常被混淆的含义：为某人提供所需之物，以及阻止事物改变。
 
-Homo-sapiens was never sustainable. No species is - 99% of them have gone extinct. Eventually the human-race will be, unless we choose otherwise, wiped out by some ice age, a meteor, a supernova, etc. 
+智人从来不是可持续的。没有任何物种是可持续的，99% 的物种都已经灭绝。最终，除非我们作出不同选择，人类也会被某次冰河期、陨石、超新星等事件消灭。
 
-The idea that we can harken back to some prehistoric time where life was sustainable and we all lived in tranquility like hobbits isn’t grounded in reality. Only [[Knowledge]] can save us. Only [[Progress]] is sustainable. 
-
+我们可以回到某个史前时代，那时生活是可持续的，人人像霍比特人一样宁静生活，这种想法并不扎根于现实。只有[[Knowledge|知识（Knowledge）]]能拯救我们。只有[[Progress|进步（Progress）]]是可持续的。

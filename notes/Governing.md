@@ -1,20 +1,20 @@
-# Governing
+# 治理（Governing）
 
-There's a class of questions that [[Popper]] called 'Who should rule?'. For example, 'Who should hold power?', and then lots of derived questions like 'How should they be educated?.' These are questions that have been asked ever since history begun and are at the root of all squabbles around governing.
+有一类问题，[[Popper|波普尔（Popper）]]称之为“谁应该统治？”例如，“谁应该掌权？”以及许多派生问题，比如“他们应该如何受教育？”这类问题自历史开始以来就一直被提出，也是一切治理争论的根源。
 
-Popper pointed out that this class of questions is rooted in the same misconception as the question ‘How are scientific theories derived from sensory data?’ which defines [[Empiricism]]. It is seeking a system that derives or justifies the right choice of leader or government, from existing data – such as inherited entitlements, the opinion of the majority, the manner in which a person has been educated, etc.
+波普尔指出，这类问题和“科学理论如何从感觉数据中推导出来？”这个问题一样，植根于同一个误解；后一个问题定义了[[Empiricism|经验主义（Empiricism）]]。它在寻找一个系统，试图从既有数据中推导或证明某个领导者或政府选择是正确的，比如继承权、多数人的意见、某人受教育的方式，等等。
 
-The same misconception also underlies [[Blind Optimism]] and [[Blind Pessimism]]: they both expect progress to be made by applying a simple rule to existing knowledge, to establish which future possibilities to ignore and which to rely on. In other words, *explanation-less progress*.
+同样的误解也支撑着[[Blind Optimism|盲目乐观（Blind Optimism）]]和[[Blind Pessimism|盲目悲观（Blind Pessimism）]]：二者都期待通过把一条简单规则应用到既有知识上来取得进步，以决定哪些未来可能性应被忽略，哪些应被依赖。换句话说，就是*没有解释的进步*。
 
-If the political process is seen as an engine for putting the right rulers in power, then it justifies violence, for until that right system is in place, no ruler is legitimate; and once it is in place, and its designated rulers are ruling, opposition to them is opposition to rightness. The problem then becomes how to thwart anyone who is working against the rulers or their policies.
+如果政治过程被看作一台把正确统治者送上台的机器，那么它就会为暴力辩护：在那个正确系统建立之前，没有统治者是合法的；而一旦系统建立，其指定统治者开始统治，反对他们就是反对正确性。问题于是变成：如何挫败任何反对统治者或其政策的人。
 
-Popper therefore applies his basic ‘how can we detect and eliminate errors?’ to political philosophy in the form how can we rid ourselves of bad governments without violence?
+因此，波普尔把自己那个基本问题“我们如何发现并消除错误？”应用到政治哲学中，形式变为：我们如何不用暴力摆脱坏政府？
 
-No leader is perfect, and [[Arrow's theorem]] proves that no system of governing is completely fair.
+没有完美的领导者，而[[Arrow's theorem|阿罗定理（Arrow's theorem）]]证明，没有任何治理系统是完全公平的。
 
-Therefore systems of government are not to be judged by the quality of their leaders or policies, but by how easily bad leaders or policies are removed.
+因此，评价政府制度，不应看它的领导者或政策质量如何，而应看它移除坏领导者或坏政策有多容易。
 
-The only way to remove bad leaders or policies, without using violence, is through cultivating a culture of free-speech and [[Criticism]].
+不使用暴力而移除坏领导者或坏政策的唯一方式，是培养言论自由与[[Criticism|批判（Criticism）]]的文化。
 
-See also: 
-- [[Arrow's theorem]]
+另见：
+- [[Arrow's theorem|阿罗定理（Arrow's theorem）]]

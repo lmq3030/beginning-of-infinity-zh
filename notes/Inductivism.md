@@ -1,5 +1,5 @@
-# Inductivism
+# 归纳主义（Inductivism）
 
-The misconception that scientific theories are obtained by generalizing or extrapolating repeated experiences, and that the more often a theory is confirmed by observation the more likely it becomes.
+一种误解：科学理论来自对重复经验的概括或外推，而且一个理论被观察确认的次数越多，它就越可能为真。
 
-Another way of thinking about this is that: ‘The future will resemble the past’. 
+换一种说法就是：“未来会类似过去。”

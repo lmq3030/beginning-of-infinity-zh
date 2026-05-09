@@ -1,3 +1,3 @@
-# Reach
+# 触达范围（Reach）
 
- The ability of some explanations to solve problems beyond those that they were created to solve.
+某些解释具有这样一种能力：它们能解决超出最初被创造来解决的问题之外的问题。

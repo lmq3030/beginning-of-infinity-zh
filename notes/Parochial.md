@@ -1,5 +1,5 @@
-# Parochial
+# 狭隘性（Parochial）
 
-Mistaking appearance for reality, or local regularities for universal laws.
+把表象误认为现实，或者把局部规律误认为普遍法则。
 
-Anthropocentric errors are examples of parochialism, but not all parochialism is anthropocentric.
+人类中心主义错误是狭隘主义（parochialism）的例子，但并非所有狭隘主义都是人类中心主义。

@@ -1,5 +1,6 @@
-# Fallible
-Error prone.
+# 可错的（Fallible）
 
-See also:
-- [[Fallibilism]]
+容易出错。
+
+另见：
+- [[Fallibilism|可错论（Fallibilism）]]

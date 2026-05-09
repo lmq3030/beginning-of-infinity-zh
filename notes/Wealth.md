@@ -1,3 +1,3 @@
-# Wealth
+# 财富（Wealth）
 
-The repertoire of physical transformations that one is capable of causing.
+一个人有能力造成的物理转化的全部组合。

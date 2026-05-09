@@ -5,6 +5,7 @@ import {castArray} from 'app/helpers/array'
 import {Note} from 'app/interfaces/note'
 import type {GetServerSideProps, NextPage} from 'next'
 import {getHydratedNote as getNote} from 'server/helpers/notes'
+import React from 'react'
 
 export const getServerSideProps: GetServerSideProps = async (context) => {
   const path = castArray(context.query.paths || []).join('/')

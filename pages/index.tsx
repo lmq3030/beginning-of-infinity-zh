@@ -4,8 +4,9 @@ import {Notes} from 'app/components/notes'
 import {Note, NOTE_INDEX_NAME} from 'app/interfaces/note'
 import type {GetStaticProps, NextPage} from 'next'
 import {getNote} from 'server/helpers/notes'
+import React from 'react'
 
-export const getStaticProps: GetStaticProps = async (context) => {
+export const getStaticProps: GetStaticProps = async () => {
   const notes = [await getNote(NOTE_INDEX_NAME)]
 
   return {

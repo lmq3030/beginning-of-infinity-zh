@@ -1,15 +1,15 @@
-# Neo-Darwinism
+# 新达尔文主义（Neo-Darwinism）
 
-The central idea of neo-Darwinism is that evolution favors the genes that spread best through the population. 
+新达尔文主义的核心思想是：进化偏爱那些最善于在种群中扩散的基因。
 
-A common misconception about Darwinian [[Evolution]] is that it maximizes ‘the good of the species’. In reality evolution promotes the propagation of individual genes (sometimes to the detriment of the species). 
+关于达尔文式[[Evolution|进化（Evolution）]]，一个常见误解是它会最大化“物种的利益”。实际上，进化促进的是单个基因的传播，有时甚至会损害物种。
 
-Evolution does not especially promote the ‘welfare’ of species or individual organisms. It does not promote the ‘welfare’ of genes either: it adapts them not for survival in larger numbers, nor indeed for survival at all, but only for spreading through the population at the expense of rival genes, particularly slight variants of themselves. 
+进化并不特别促进物种或单个有机体的“福祉”。它也不促进基因自身的“福祉”：它适应基因，并不是为了让基因以更大数量存活，甚至也不是为了存活本身，而只是为了让它们相对于竞争基因，尤其是自身的微小变体，在种群中更好地扩散。
 
-Organisms are the slaves, or tools, that genes use to achieve their ‘purpose’ of spreading themselves through the population.
+有机体是基因的奴隶，或者工具；基因借助它们实现自己在种群中扩散的“目的”。
 
-So, while evolution explains biological progress not all evolution constitutes progress, and no (genetic) evolution optimizes progress.
+所以，尽管进化解释了生物学上的进步，并不是所有进化都构成进步，也没有任何（遗传）进化会优化进步。
 
-See more:
+更多：
 
 - [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene)

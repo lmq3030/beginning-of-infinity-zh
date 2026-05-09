@@ -1,9 +1,8 @@
-# Good Explanation
+# 好解释（Good Explanation）
 
-A good explanation is [[Hard to vary]] while still 
-accounting for what it purports to account for.
+一个好解释（good explanation）在解释它声称要解释的东西时，仍然[[Hard to vary|难以改变（Hard to vary）]]。
 
-See also:
+另见：
 
-- [[Hard to vary]]
-- [[Bad Explanation]]
+- [[Hard to vary|难以改变（Hard to vary）]]
+- [[Bad Explanation|坏解释（Bad Explanation）]]

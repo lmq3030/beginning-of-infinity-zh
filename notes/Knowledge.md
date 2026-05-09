@@ -1,13 +1,12 @@
-# Knowledge      
+# 知识（Knowledge）
 
-Knowledge is information which when physically embodied in an environment tends to cause itself to remain so. 
+知识（knowledge）是一种信息：当它被物理地体现于某个环境中时，往往会促使自身继续保持这种体现。
 
-Examples of Knowledge:
-- DNA strands
-- Payprus scrolls
-- Wikipedia stored on a hard disk
+知识的例子：
+- DNA 链
+- 纸草卷轴
+- 存储在硬盘上的 Wikipedia
 
-See also:
-- [[Knowledge Creation]]
-- [[Knowledge Streams]]
-
+另见：
+- [[Knowledge Creation|知识创造（Knowledge Creation）]]
+- [[Knowledge Streams|知识流（Knowledge Streams）]]

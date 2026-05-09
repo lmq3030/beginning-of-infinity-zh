@@ -1,3 +1,3 @@
-# Universal Constructor      
+# 通用构造器（Universal Constructor）
 
-A constructor that can cause any raw materials to undergo any physically possible transformation, given the right information.
+一种构造器：只要给出正确的信息，它就能使任何原材料发生任何物理上可能的转化。

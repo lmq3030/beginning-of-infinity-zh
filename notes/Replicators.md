@@ -1,5 +1,5 @@
-# Replicators
+# 复制子（Replicators）
 
-An entity that contributes causally to its own copying.
+一种实体：它在因果上促成自身被复制。
 
-Ideas are a type of replicator. For example a convincing religion, or a good joke, cause themselves to get replicated. We call this category of replicators [[Memes]].
+思想是一类复制子。例如，一个有说服力的宗教，或一个好笑话，会促使自身被复制。我们把这类复制子称为[[Memes|模因（Memes）]]。
