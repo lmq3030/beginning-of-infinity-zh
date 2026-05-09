@@ -105,18 +105,6 @@ export const NotesBrowser: React.FC<Props> = ({initialNotes = []}) => {
 
   return (
     <div className="relative flex-1 overflow-hidden">
-      {canGoBack && (
-        <button
-          type="button"
-          aria-label="返回上一条笔记"
-          title="返回上一条笔记（←）"
-          className="absolute left-4 top-4 z-20 flex h-9 w-9 items-center justify-center rounded-full border border-gray-200 bg-white text-xl leading-none text-gray-700 shadow-md transition hover:bg-gray-50 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-400"
-          onClick={goBack}
-        >
-          ←
-        </button>
-      )}
-
       <div
         ref={ref}
         className="browser h-full flex overflow-x-auto overflow-y-hidden"
