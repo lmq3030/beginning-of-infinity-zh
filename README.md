@@ -1,5 +1,7 @@
 # 无穷的开始（The Beginning of Infinity）
 
+> **在线阅读：[beginning-of-infinity-zh.vercel.app](https://beginning-of-infinity-zh.vercel.app/)**
+
 这是《无穷的开始（The Beginning of Infinity）》reading companion 的中文本地化版本。
 
 本项目基于 [team-reflect/beginning-of-infinity](https://github.com/team-reflect/beginning-of-infinity) 制作；原站点由 [Reflect](https://reflect.app) 团队创建，并运行在 [thebeginningofinfinity.xyz](https://thebeginningofinfinity.xyz)。原始代码、笔记结构和交互体验的 credit 归原仓库与原作者所有。
