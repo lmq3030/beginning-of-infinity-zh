@@ -1,6 +1,9 @@
 {
   "name": "beginning-of-infinity",
   "private": true,
+  "engines": {
+    "node": ">=20 <26"
+  },
   "scripts": {
     "generate:notes": "node scripts/generate-notes-data.mjs",
     "predev": "yarn generate:notes",
