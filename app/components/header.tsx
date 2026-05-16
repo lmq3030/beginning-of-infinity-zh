@@ -10,6 +10,9 @@ export const Header: React.FC = () => (
     </h1>
 
     <nav className="flex items-center gap-4 md:text-base text-sm font-normal">
+      <Link href="/decision-framework">
+        <a>决策框架</a>
+      </Link>
       <Link href="/strands">
         <a>线索图谱</a>
       </Link>
