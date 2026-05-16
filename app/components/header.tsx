@@ -9,10 +9,13 @@ export const Header: React.FC = () => (
       </Link>
     </h1>
 
-    <h3 className="md:text-base text-sm font-normal">
+    <nav className="flex items-center gap-4 md:text-base text-sm font-normal">
+      <Link href="/strands">
+        <a>线索图谱</a>
+      </Link>
       <Link href="/About">
         <a>关于这些笔记</a>
       </Link>
-    </h3>
+    </nav>
   </div>
 )
